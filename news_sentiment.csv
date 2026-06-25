@@ -1,501 +1,501 @@
-Date,Company,Headline,SentimentScore,Sentiment
-2024-04-19,Reliance Industries,Operational challenges reported,-0.69,Negative
-2024-04-01,Reliance Industries,New strategic partnership,0.67,Positive
-2024-09-26,Reliance Industries,Strong quarterly earnings,0.75,Positive
-2024-06-17,Reliance Industries,Market share increases,0.95,Positive
-2024-09-14,Reliance Industries,Positive analyst outlook,0.42,Positive
-2024-05-20,Reliance Industries,Business review announced,-0.09,Neutral
-2024-12-22,Reliance Industries,Positive analyst outlook,0.78,Positive
-2024-10-19,Reliance Industries,Successful business expansion,1.0,Positive
-2024-11-19,Reliance Industries,Business review announced,-0.07,Neutral
-2024-11-27,Reliance Industries,Regulatory concerns emerge,-0.97,Negative
-2024-01-15,Reliance Industries,Weak quarterly performance,-0.44,Negative
-2024-03-31,Reliance Industries,Expansion plans announced,0.65,Positive
-2024-03-02,Reliance Industries,Successful business expansion,0.78,Positive
-2024-02-01,Reliance Industries,Expansion plans announced,0.91,Positive
-2024-05-22,Reliance Industries,Strong quarterly earnings,0.6,Positive
-2024-12-10,Reliance Industries,Revenue growth exceeds expectations,0.94,Positive
-2024-10-27,Reliance Industries,Strong quarterly earnings,0.96,Positive
-2024-07-25,Reliance Industries,Board meeting scheduled,-0.09,Neutral
-2024-09-13,Reliance Industries,Positive analyst outlook,0.45,Positive
-2024-08-15,Reliance Industries,Positive analyst outlook,0.77,Positive
-2024-12-18,Reliance Industries,Analysts downgrade stock,-0.86,Negative
-2024-01-02,Reliance Industries,Positive analyst outlook,0.74,Positive
-2024-03-01,Reliance Industries,Successful business expansion,0.74,Positive
-2024-12-22,Reliance Industries,Successful business expansion,0.45,Positive
-2024-02-16,Reliance Industries,Expansion plans announced,0.51,Positive
-2024-10-29,Reliance Industries,Revenue growth exceeds expectations,0.87,Positive
-2024-04-21,Reliance Industries,Successful business expansion,0.45,Positive
-2024-05-06,Reliance Industries,New strategic partnership,0.85,Positive
-2024-03-08,Reliance Industries,Strong quarterly earnings,0.63,Positive
-2024-05-26,Reliance Industries,Positive analyst outlook,0.48,Positive
-2024-06-10,Reliance Industries,Management update released,0.07,Neutral
-2024-05-19,Reliance Industries,Revenue growth exceeds expectations,0.99,Positive
-2024-05-12,Reliance Industries,Annual report published,-0.08,Neutral
-2024-06-30,Reliance Industries,Competition pressures revenue,-0.72,Negative
-2024-11-24,Reliance Industries,Supply chain disruptions,-0.34,Negative
-2024-12-17,Reliance Industries,Strong quarterly earnings,0.97,Positive
-2024-10-26,Reliance Industries,Management update released,0.01,Neutral
-2024-04-17,Reliance Industries,Annual report published,0.03,Neutral
-2024-12-15,Reliance Industries,New strategic partnership,0.61,Positive
-2024-09-14,Reliance Industries,Market uncertainty impacts growth,-0.93,Negative
-2024-04-17,Reliance Industries,New strategic partnership,0.68,Positive
-2024-01-17,Reliance Industries,Revenue growth exceeds expectations,0.69,Positive
-2024-08-27,Reliance Industries,Competition pressures revenue,-0.7,Negative
-2024-07-12,Reliance Industries,Profit margins decline,-0.74,Negative
-2024-02-23,Reliance Industries,Strong quarterly earnings,0.5,Positive
-2024-08-31,Reliance Industries,Market share increases,0.79,Positive
-2024-02-21,Reliance Industries,Market share increases,0.58,Positive
-2024-08-27,Reliance Industries,Weak quarterly performance,-0.4,Negative
-2024-08-12,Reliance Industries,Supply chain disruptions,-0.53,Negative
-2024-12-21,Reliance Industries,Business review announced,-0.01,Neutral
-2024-05-04,TCS,Market share increases,0.76,Positive
-2024-09-04,TCS,Annual report published,-0.09,Neutral
-2024-04-29,TCS,Regulatory concerns emerge,-0.66,Negative
-2024-05-17,TCS,Analysts downgrade stock,-0.53,Negative
-2024-03-24,TCS,Weak quarterly performance,-0.26,Negative
-2024-11-01,TCS,Operational challenges reported,-0.24,Negative
-2024-10-17,TCS,Revenue growth exceeds expectations,0.8,Positive
-2024-01-28,TCS,Positive analyst outlook,0.88,Positive
-2024-03-13,TCS,Successful business expansion,0.64,Positive
-2024-08-23,TCS,Revenue growth exceeds expectations,0.52,Positive
-2024-03-29,TCS,Positive analyst outlook,0.45,Positive
-2024-04-30,TCS,Record annual profits,0.45,Positive
-2024-05-05,TCS,Market share increases,0.4,Positive
-2024-03-22,TCS,Expansion plans announced,0.68,Positive
-2024-12-17,TCS,Management update released,0.08,Neutral
-2024-12-08,TCS,Business review announced,0.04,Neutral
-2024-02-19,TCS,Management update released,-0.04,Neutral
-2024-03-09,TCS,Annual report published,0.08,Neutral
-2024-12-11,TCS,Corporate event planned,-0.02,Neutral
-2024-02-06,TCS,Successful business expansion,0.8,Positive
-2024-10-27,TCS,New strategic partnership,0.93,Positive
-2024-04-01,TCS,Market share increases,0.62,Positive
-2024-09-13,TCS,Record annual profits,0.95,Positive
-2024-11-26,TCS,Revenue growth exceeds expectations,0.7,Positive
-2024-01-23,TCS,Positive analyst outlook,0.66,Positive
-2024-06-22,TCS,Management update released,-0.01,Neutral
-2024-05-25,TCS,Record annual profits,0.81,Positive
-2024-09-03,TCS,Positive analyst outlook,0.98,Positive
-2024-08-03,TCS,Revenue growth exceeds expectations,0.64,Positive
-2024-09-21,TCS,Successful business expansion,0.88,Positive
-2024-06-26,TCS,Record annual profits,0.88,Positive
-2024-01-07,TCS,Market share increases,0.48,Positive
-2024-09-16,TCS,Business review announced,-0.1,Neutral
-2024-11-30,TCS,Business review announced,0.05,Neutral
-2024-06-04,TCS,Annual report published,0.05,Neutral
-2024-02-29,TCS,Supply chain disruptions,-0.6,Negative
-2024-08-30,TCS,Market share increases,0.47,Positive
-2024-04-01,TCS,Corporate event planned,0.05,Neutral
-2024-12-11,TCS,Revenue growth exceeds expectations,0.4,Positive
-2024-12-28,TCS,Market uncertainty impacts growth,-0.84,Negative
-2024-11-10,TCS,Business review announced,-0.09,Neutral
-2024-05-24,TCS,Expansion plans announced,0.92,Positive
-2024-08-23,TCS,Strong quarterly earnings,0.93,Positive
-2024-12-17,TCS,Positive analyst outlook,0.66,Positive
-2024-12-11,TCS,Strong quarterly earnings,0.73,Positive
-2024-04-01,TCS,Market share increases,0.65,Positive
-2024-08-16,TCS,Positive analyst outlook,0.78,Positive
-2024-11-01,TCS,Market share increases,0.84,Positive
-2024-09-29,TCS,Management update released,-0.06,Neutral
-2024-09-30,TCS,Revenue growth exceeds expectations,0.84,Positive
-2024-11-20,Infosys,Business review announced,0.08,Neutral
-2024-06-25,Infosys,Corporate event planned,-0.05,Neutral
-2024-09-25,Infosys,Supply chain disruptions,-0.97,Negative
-2024-06-16,Infosys,Strong quarterly earnings,0.49,Positive
-2024-11-22,Infosys,Record annual profits,0.71,Positive
-2024-02-10,Infosys,Positive analyst outlook,0.65,Positive
-2024-01-12,Infosys,Positive analyst outlook,0.83,Positive
-2024-02-10,Infosys,Board meeting scheduled,0.06,Neutral
-2024-10-19,Infosys,Positive analyst outlook,0.77,Positive
-2024-10-03,Infosys,Strong quarterly earnings,0.62,Positive
-2024-08-30,Infosys,Record annual profits,0.56,Positive
-2024-12-18,Infosys,Positive analyst outlook,0.7,Positive
-2024-01-24,Infosys,Analysts downgrade stock,-0.27,Negative
-2024-12-13,Infosys,Positive analyst outlook,0.4,Positive
-2024-04-16,Infosys,Record annual profits,0.79,Positive
-2024-05-20,Infosys,Successful business expansion,0.76,Positive
-2024-11-21,Infosys,Expansion plans announced,0.53,Positive
-2024-01-10,Infosys,New strategic partnership,0.44,Positive
-2024-05-27,Infosys,Supply chain disruptions,-0.53,Negative
-2024-11-21,Infosys,Competition pressures revenue,-0.57,Negative
-2024-08-31,Infosys,Profit margins decline,-0.73,Negative
-2024-06-12,Infosys,Successful business expansion,0.49,Positive
-2024-09-12,Infosys,Revenue growth exceeds expectations,0.8,Positive
-2024-05-10,Infosys,Board meeting scheduled,0.03,Neutral
-2024-10-19,Infosys,Successful business expansion,0.74,Positive
-2024-06-25,Infosys,New strategic partnership,0.85,Positive
-2024-09-28,Infosys,Positive analyst outlook,0.58,Positive
-2024-06-10,Infosys,Business review announced,-0.09,Neutral
-2024-11-15,Infosys,Weak quarterly performance,-0.5,Negative
-2024-10-16,Infosys,Business review announced,0.1,Neutral
-2024-01-12,Infosys,Successful business expansion,0.99,Positive
-2024-07-11,Infosys,Weak quarterly performance,-0.7,Negative
-2024-03-04,Infosys,Record annual profits,0.53,Positive
-2024-02-26,Infosys,Market uncertainty impacts growth,-0.86,Negative
-2024-03-22,Infosys,Corporate event planned,-0.02,Neutral
-2024-04-21,Infosys,Corporate event planned,-0.04,Neutral
-2024-07-04,Infosys,Market share increases,0.7,Positive
-2024-09-29,Infosys,Management update released,0.07,Neutral
-2024-09-10,Infosys,Annual report published,0.07,Neutral
-2024-08-18,Infosys,Revenue growth exceeds expectations,0.64,Positive
-2024-01-02,Infosys,Competition pressures revenue,-0.39,Negative
-2024-12-01,Infosys,Expansion plans announced,0.63,Positive
-2024-11-30,Infosys,Business review announced,-0.02,Neutral
-2024-11-21,Infosys,New strategic partnership,0.48,Positive
-2024-11-13,Infosys,Regulatory concerns emerge,-0.52,Negative
-2024-07-28,Infosys,Market share increases,0.77,Positive
-2024-03-26,Infosys,Supply chain disruptions,-0.45,Negative
-2024-07-08,Infosys,Record annual profits,0.73,Positive
-2024-04-08,Infosys,Successful business expansion,0.62,Positive
-2024-05-02,Infosys,Successful business expansion,0.96,Positive
-2024-04-12,HDFC Bank,Revenue growth exceeds expectations,0.58,Positive
-2024-01-16,HDFC Bank,Successful business expansion,0.68,Positive
-2024-12-16,HDFC Bank,Supply chain disruptions,-0.21,Negative
-2024-03-31,HDFC Bank,Corporate event planned,0.03,Neutral
-2024-11-05,HDFC Bank,Revenue growth exceeds expectations,0.55,Positive
-2024-02-05,HDFC Bank,Strong quarterly earnings,0.81,Positive
-2024-07-27,HDFC Bank,Supply chain disruptions,-0.31,Negative
-2024-02-06,HDFC Bank,Annual report published,0.08,Neutral
-2024-10-02,HDFC Bank,Strong quarterly earnings,0.66,Positive
-2024-01-31,HDFC Bank,Record annual profits,0.9,Positive
-2024-01-21,HDFC Bank,Record annual profits,0.83,Positive
-2024-09-18,HDFC Bank,Business review announced,0.06,Neutral
-2024-02-23,HDFC Bank,Positive analyst outlook,0.85,Positive
-2024-10-23,HDFC Bank,Revenue growth exceeds expectations,0.62,Positive
-2024-12-02,HDFC Bank,Revenue growth exceeds expectations,0.95,Positive
-2024-09-04,HDFC Bank,Positive analyst outlook,0.46,Positive
-2024-11-24,HDFC Bank,Successful business expansion,0.94,Positive
-2024-09-08,HDFC Bank,Positive analyst outlook,0.61,Positive
-2024-12-18,HDFC Bank,Annual report published,0.06,Neutral
-2024-12-24,HDFC Bank,Positive analyst outlook,0.76,Positive
-2024-03-12,HDFC Bank,Positive analyst outlook,0.42,Positive
-2024-07-08,HDFC Bank,Competition pressures revenue,-0.43,Negative
-2024-06-06,HDFC Bank,Positive analyst outlook,0.69,Positive
-2024-08-13,HDFC Bank,Revenue growth exceeds expectations,0.85,Positive
-2024-12-21,HDFC Bank,Revenue growth exceeds expectations,0.76,Positive
-2024-07-15,HDFC Bank,New strategic partnership,0.42,Positive
-2024-04-18,HDFC Bank,Market uncertainty impacts growth,-0.88,Negative
-2024-01-07,HDFC Bank,Market share increases,0.83,Positive
-2024-09-21,HDFC Bank,Business review announced,0.02,Neutral
-2024-03-28,HDFC Bank,Revenue growth exceeds expectations,0.75,Positive
-2024-09-13,HDFC Bank,Market share increases,0.63,Positive
-2024-09-05,HDFC Bank,Successful business expansion,0.51,Positive
-2024-07-13,HDFC Bank,Expansion plans announced,0.61,Positive
-2024-06-07,HDFC Bank,New strategic partnership,0.49,Positive
-2024-11-07,HDFC Bank,New strategic partnership,0.61,Positive
-2024-08-23,HDFC Bank,Profit margins decline,-0.33,Negative
-2024-09-25,HDFC Bank,New strategic partnership,0.62,Positive
-2024-01-17,HDFC Bank,Board meeting scheduled,0.09,Neutral
-2024-09-16,HDFC Bank,Positive analyst outlook,0.73,Positive
-2024-09-30,HDFC Bank,Regulatory concerns emerge,-0.22,Negative
-2024-01-29,HDFC Bank,Corporate event planned,0.0,Neutral
-2024-05-05,HDFC Bank,Revenue growth exceeds expectations,0.81,Positive
-2024-11-29,HDFC Bank,New strategic partnership,0.81,Positive
-2024-08-21,HDFC Bank,Strong quarterly earnings,0.99,Positive
-2024-05-16,HDFC Bank,Market uncertainty impacts growth,-0.93,Negative
-2024-04-07,HDFC Bank,Revenue growth exceeds expectations,0.71,Positive
-2024-02-01,HDFC Bank,New strategic partnership,0.55,Positive
-2024-10-24,HDFC Bank,Business review announced,-0.08,Neutral
-2024-01-27,HDFC Bank,Expansion plans announced,0.52,Positive
-2024-02-29,HDFC Bank,Board meeting scheduled,-0.0,Neutral
-2024-02-21,ICICI Bank,Operational challenges reported,-0.52,Negative
-2024-06-02,ICICI Bank,Profit margins decline,-0.53,Negative
-2024-02-27,ICICI Bank,Management update released,0.02,Neutral
-2024-11-21,ICICI Bank,Supply chain disruptions,-0.21,Negative
-2024-05-08,ICICI Bank,Corporate event planned,-0.05,Neutral
-2024-11-19,ICICI Bank,Market share increases,0.7,Positive
-2024-09-20,ICICI Bank,Positive analyst outlook,0.56,Positive
-2024-09-29,ICICI Bank,Market share increases,0.57,Positive
-2024-10-14,ICICI Bank,Market uncertainty impacts growth,-0.5,Negative
-2024-02-27,ICICI Bank,Successful business expansion,0.4,Positive
-2024-09-17,ICICI Bank,Business review announced,-0.07,Neutral
-2024-02-03,ICICI Bank,Annual report published,-0.08,Neutral
-2024-08-14,ICICI Bank,Revenue growth exceeds expectations,0.52,Positive
-2024-02-25,ICICI Bank,New strategic partnership,0.58,Positive
-2024-06-05,ICICI Bank,Successful business expansion,0.46,Positive
-2024-06-02,ICICI Bank,Operational challenges reported,-0.54,Negative
-2024-03-20,ICICI Bank,Revenue growth exceeds expectations,0.52,Positive
-2024-07-21,ICICI Bank,Revenue growth exceeds expectations,0.77,Positive
-2024-03-21,ICICI Bank,Successful business expansion,0.79,Positive
-2024-08-01,ICICI Bank,New strategic partnership,0.96,Positive
-2024-08-29,ICICI Bank,Market share increases,0.49,Positive
-2024-06-19,ICICI Bank,Market share increases,0.67,Positive
-2024-08-05,ICICI Bank,Analysts downgrade stock,-0.39,Negative
-2024-01-03,ICICI Bank,Board meeting scheduled,0.09,Neutral
-2024-06-30,ICICI Bank,Successful business expansion,0.86,Positive
-2024-01-10,ICICI Bank,New strategic partnership,0.8,Positive
-2024-05-11,ICICI Bank,Market share increases,0.41,Positive
-2024-08-06,ICICI Bank,Annual report published,0.01,Neutral
-2024-04-12,ICICI Bank,Successful business expansion,0.91,Positive
-2024-02-24,ICICI Bank,New strategic partnership,0.5,Positive
-2024-09-02,ICICI Bank,Supply chain disruptions,-0.24,Negative
-2024-01-24,ICICI Bank,Business review announced,-0.05,Neutral
-2024-11-06,ICICI Bank,Analysts downgrade stock,-0.95,Negative
-2024-01-29,ICICI Bank,Positive analyst outlook,0.72,Positive
-2024-08-12,ICICI Bank,Expansion plans announced,0.68,Positive
-2024-02-07,ICICI Bank,Record annual profits,0.89,Positive
-2024-03-18,ICICI Bank,Market uncertainty impacts growth,-0.54,Negative
-2024-10-14,ICICI Bank,Successful business expansion,0.55,Positive
-2024-10-20,ICICI Bank,Market uncertainty impacts growth,-0.55,Negative
-2024-05-29,ICICI Bank,Revenue growth exceeds expectations,0.86,Positive
-2024-02-04,ICICI Bank,Market share increases,0.94,Positive
-2024-08-16,ICICI Bank,Revenue growth exceeds expectations,0.59,Positive
-2024-04-26,ICICI Bank,Annual report published,-0.03,Neutral
-2024-12-12,ICICI Bank,Positive analyst outlook,0.76,Positive
-2024-01-12,ICICI Bank,Expansion plans announced,0.79,Positive
-2024-08-06,ICICI Bank,Business review announced,0.06,Neutral
-2024-09-27,ICICI Bank,Market share increases,0.41,Positive
-2024-08-11,ICICI Bank,Market share increases,0.87,Positive
-2024-09-08,ICICI Bank,Market share increases,0.78,Positive
-2024-02-08,ICICI Bank,Regulatory concerns emerge,-0.22,Negative
-2024-02-27,SBI,Weak quarterly performance,-0.36,Negative
-2024-02-14,SBI,Supply chain disruptions,-0.51,Negative
-2024-04-07,SBI,Record annual profits,0.89,Positive
-2024-08-26,SBI,Management update released,0.03,Neutral
-2024-02-07,SBI,Market share increases,0.67,Positive
-2024-12-20,SBI,Board meeting scheduled,-0.02,Neutral
-2024-05-30,SBI,Record annual profits,0.41,Positive
-2024-04-25,SBI,Record annual profits,0.49,Positive
-2024-04-24,SBI,Competition pressures revenue,-0.57,Negative
-2024-11-30,SBI,Market share increases,0.94,Positive
-2024-10-22,SBI,New strategic partnership,0.86,Positive
-2024-04-15,SBI,Revenue growth exceeds expectations,0.46,Positive
-2024-09-30,SBI,Profit margins decline,-0.38,Negative
-2024-10-03,SBI,Expansion plans announced,0.6,Positive
-2024-06-10,SBI,New strategic partnership,0.52,Positive
-2024-03-24,SBI,Annual report published,-0.05,Neutral
-2024-04-21,SBI,Strong quarterly earnings,0.48,Positive
-2024-08-13,SBI,Record annual profits,0.42,Positive
-2024-04-16,SBI,Board meeting scheduled,-0.01,Neutral
-2024-07-23,SBI,New strategic partnership,0.86,Positive
-2024-10-29,SBI,Expansion plans announced,0.98,Positive
-2024-09-16,SBI,Regulatory concerns emerge,-0.87,Negative
-2024-04-17,SBI,Successful business expansion,0.84,Positive
-2024-07-02,SBI,Record annual profits,0.51,Positive
-2024-02-16,SBI,Competition pressures revenue,-0.62,Negative
-2024-09-17,SBI,Successful business expansion,0.41,Positive
-2024-07-13,SBI,Business review announced,0.09,Neutral
-2024-02-21,SBI,Market share increases,0.97,Positive
-2024-02-03,SBI,Annual report published,-0.05,Neutral
-2024-12-25,SBI,Record annual profits,0.93,Positive
-2024-01-09,SBI,Market share increases,0.43,Positive
-2024-05-07,SBI,Strong quarterly earnings,0.48,Positive
-2024-03-20,SBI,Successful business expansion,0.86,Positive
-2024-02-01,SBI,Operational challenges reported,-0.31,Negative
-2024-12-04,SBI,Market share increases,0.77,Positive
-2024-03-21,SBI,Management update released,-0.07,Neutral
-2024-09-22,SBI,Revenue growth exceeds expectations,0.62,Positive
-2024-02-26,SBI,Strong quarterly earnings,0.7,Positive
-2024-06-05,SBI,Annual report published,0.08,Neutral
-2024-05-15,SBI,Competition pressures revenue,-0.98,Negative
-2024-01-14,SBI,Strong quarterly earnings,0.93,Positive
-2024-01-18,SBI,Record annual profits,0.43,Positive
-2024-07-12,SBI,Weak quarterly performance,-0.87,Negative
-2024-01-08,SBI,New strategic partnership,0.46,Positive
-2024-02-03,SBI,Successful business expansion,0.68,Positive
-2024-07-31,SBI,Supply chain disruptions,-0.89,Negative
-2024-11-04,SBI,Positive analyst outlook,0.69,Positive
-2024-05-11,SBI,Market share increases,0.79,Positive
-2024-07-06,SBI,Regulatory concerns emerge,-0.62,Negative
-2024-10-19,SBI,Revenue growth exceeds expectations,0.53,Positive
-2024-03-07,ITC,New strategic partnership,0.8,Positive
-2024-02-18,ITC,Annual report published,0.08,Neutral
-2024-02-23,ITC,New strategic partnership,0.55,Positive
-2024-12-03,ITC,Market share increases,0.83,Positive
-2024-08-24,ITC,Market uncertainty impacts growth,-0.39,Negative
-2024-03-08,ITC,Record annual profits,0.62,Positive
-2024-03-15,ITC,Profit margins decline,-0.4,Negative
-2024-07-16,ITC,New strategic partnership,0.99,Positive
-2024-01-08,ITC,Strong quarterly earnings,0.9,Positive
-2024-05-01,ITC,Record annual profits,0.59,Positive
-2024-10-19,ITC,Business review announced,0.07,Neutral
-2024-04-06,ITC,Analysts downgrade stock,-0.64,Negative
-2024-04-19,ITC,Corporate event planned,-0.05,Neutral
-2024-08-13,ITC,Positive analyst outlook,0.79,Positive
-2024-09-20,ITC,Market share increases,1.0,Positive
-2024-04-05,ITC,Market share increases,0.88,Positive
-2024-09-06,ITC,Supply chain disruptions,-0.47,Negative
-2024-12-08,ITC,Positive analyst outlook,0.44,Positive
-2024-07-06,ITC,Board meeting scheduled,0.09,Neutral
-2024-03-05,ITC,New strategic partnership,0.99,Positive
-2024-02-26,ITC,Positive analyst outlook,0.48,Positive
-2024-06-26,ITC,Successful business expansion,0.66,Positive
-2024-02-12,ITC,Weak quarterly performance,-0.68,Negative
-2024-09-18,ITC,Revenue growth exceeds expectations,0.9,Positive
-2024-04-23,ITC,New strategic partnership,0.84,Positive
-2024-06-30,ITC,Weak quarterly performance,-0.55,Negative
-2024-09-28,ITC,Profit margins decline,-0.36,Negative
-2024-07-04,ITC,Operational challenges reported,-0.45,Negative
-2024-09-28,ITC,Market share increases,0.5,Positive
-2024-12-14,ITC,New strategic partnership,0.91,Positive
-2024-03-18,ITC,Analysts downgrade stock,-0.31,Negative
-2024-05-22,ITC,Record annual profits,0.58,Positive
-2024-09-24,ITC,Business review announced,-0.01,Neutral
-2024-03-10,ITC,Strong quarterly earnings,0.44,Positive
-2024-12-28,ITC,Market uncertainty impacts growth,-0.83,Negative
-2024-11-09,ITC,Regulatory concerns emerge,-0.95,Negative
-2024-07-29,ITC,Revenue growth exceeds expectations,0.69,Positive
-2024-03-23,ITC,Record annual profits,0.87,Positive
-2024-11-26,ITC,Business review announced,0.02,Neutral
-2024-05-07,ITC,Expansion plans announced,0.54,Positive
-2024-05-21,ITC,Record annual profits,0.47,Positive
-2024-10-26,ITC,New strategic partnership,0.67,Positive
-2024-12-10,ITC,Market share increases,0.41,Positive
-2024-03-01,ITC,Market uncertainty impacts growth,-0.58,Negative
-2024-11-17,ITC,Supply chain disruptions,-0.81,Negative
-2024-08-12,ITC,Expansion plans announced,0.72,Positive
-2024-11-08,ITC,Management update released,-0.09,Neutral
-2024-06-23,ITC,Strong quarterly earnings,0.63,Positive
-2024-05-10,ITC,Successful business expansion,0.66,Positive
-2024-03-27,ITC,Annual report published,-0.06,Neutral
-2024-02-22,Bharti Airtel,Market share increases,0.54,Positive
-2024-12-06,Bharti Airtel,Business review announced,-0.02,Neutral
-2024-11-22,Bharti Airtel,Positive analyst outlook,0.91,Positive
-2024-05-21,Bharti Airtel,Market share increases,0.65,Positive
-2024-05-08,Bharti Airtel,Expansion plans announced,0.41,Positive
-2024-09-05,Bharti Airtel,Successful business expansion,0.53,Positive
-2024-08-10,Bharti Airtel,Expansion plans announced,1.0,Positive
-2024-12-28,Bharti Airtel,Corporate event planned,0.02,Neutral
-2024-10-16,Bharti Airtel,Corporate event planned,0.0,Neutral
-2024-12-07,Bharti Airtel,Board meeting scheduled,0.02,Neutral
-2024-10-29,Bharti Airtel,Expansion plans announced,0.47,Positive
-2024-05-02,Bharti Airtel,Record annual profits,0.89,Positive
-2024-01-21,Bharti Airtel,Successful business expansion,0.91,Positive
-2024-10-20,Bharti Airtel,Profit margins decline,-0.25,Negative
-2024-11-17,Bharti Airtel,Board meeting scheduled,-0.06,Neutral
-2024-04-02,Bharti Airtel,Market share increases,0.46,Positive
-2024-07-30,Bharti Airtel,Successful business expansion,0.91,Positive
-2024-05-09,Bharti Airtel,Market share increases,0.61,Positive
-2024-05-07,Bharti Airtel,Successful business expansion,0.87,Positive
-2024-06-15,Bharti Airtel,Annual report published,0.05,Neutral
-2024-03-23,Bharti Airtel,Market share increases,0.84,Positive
-2024-06-27,Bharti Airtel,Successful business expansion,0.91,Positive
-2024-06-19,Bharti Airtel,New strategic partnership,0.59,Positive
-2024-06-05,Bharti Airtel,Expansion plans announced,0.78,Positive
-2024-06-09,Bharti Airtel,Supply chain disruptions,-0.49,Negative
-2024-07-14,Bharti Airtel,Positive analyst outlook,0.91,Positive
-2024-09-05,Bharti Airtel,Market share increases,0.88,Positive
-2024-07-04,Bharti Airtel,Revenue growth exceeds expectations,0.59,Positive
-2024-02-27,Bharti Airtel,Positive analyst outlook,0.95,Positive
-2024-12-24,Bharti Airtel,Market uncertainty impacts growth,-0.39,Negative
-2024-10-02,Bharti Airtel,Record annual profits,0.77,Positive
-2024-02-08,Bharti Airtel,Expansion plans announced,0.45,Positive
-2024-11-02,Bharti Airtel,Annual report published,-0.07,Neutral
-2024-06-23,Bharti Airtel,Competition pressures revenue,-0.68,Negative
-2024-07-16,Bharti Airtel,Positive analyst outlook,0.77,Positive
-2024-02-12,Bharti Airtel,New strategic partnership,0.67,Positive
-2024-01-21,Bharti Airtel,Revenue growth exceeds expectations,0.8,Positive
-2024-05-20,Bharti Airtel,Successful business expansion,0.53,Positive
-2024-12-21,Bharti Airtel,New strategic partnership,0.93,Positive
-2024-08-13,Bharti Airtel,Revenue growth exceeds expectations,0.41,Positive
-2024-05-04,Bharti Airtel,Successful business expansion,0.9,Positive
-2024-07-31,Bharti Airtel,Operational challenges reported,-0.67,Negative
-2024-09-22,Bharti Airtel,Analysts downgrade stock,-0.5,Negative
-2024-07-17,Bharti Airtel,Market share increases,0.88,Positive
-2024-05-14,Bharti Airtel,Annual report published,-0.03,Neutral
-2024-04-30,Bharti Airtel,Market share increases,0.45,Positive
-2024-12-20,Bharti Airtel,Market share increases,0.92,Positive
-2024-12-25,Bharti Airtel,Revenue growth exceeds expectations,0.46,Positive
-2024-09-16,Bharti Airtel,Corporate event planned,-0.04,Neutral
-2024-11-05,Bharti Airtel,Market share increases,0.83,Positive
-2024-11-26,Larsen & Toubro,Operational challenges reported,-0.63,Negative
-2024-10-21,Larsen & Toubro,Successful business expansion,0.77,Positive
-2024-09-11,Larsen & Toubro,Analysts downgrade stock,-0.95,Negative
-2024-03-28,Larsen & Toubro,Successful business expansion,0.74,Positive
-2024-01-30,Larsen & Toubro,Successful business expansion,0.92,Positive
-2024-03-16,Larsen & Toubro,Market share increases,0.44,Positive
-2024-05-21,Larsen & Toubro,Market uncertainty impacts growth,-0.24,Negative
-2024-01-15,Larsen & Toubro,Supply chain disruptions,-0.66,Negative
-2024-03-09,Larsen & Toubro,Management update released,0.03,Neutral
-2024-06-07,Larsen & Toubro,Market uncertainty impacts growth,-0.74,Negative
-2024-10-18,Larsen & Toubro,Analysts downgrade stock,-0.88,Negative
-2024-10-03,Larsen & Toubro,Competition pressures revenue,-0.31,Negative
-2024-11-08,Larsen & Toubro,Market share increases,0.75,Positive
-2024-02-06,Larsen & Toubro,Regulatory concerns emerge,-0.58,Negative
-2024-03-23,Larsen & Toubro,New strategic partnership,0.99,Positive
-2024-04-01,Larsen & Toubro,Strong quarterly earnings,0.79,Positive
-2024-09-10,Larsen & Toubro,Market share increases,0.45,Positive
-2024-07-25,Larsen & Toubro,Analysts downgrade stock,-0.36,Negative
-2024-07-14,Larsen & Toubro,Management update released,0.07,Neutral
-2024-04-03,Larsen & Toubro,Positive analyst outlook,0.61,Positive
-2024-12-28,Larsen & Toubro,Annual report published,-0.0,Neutral
-2024-04-04,Larsen & Toubro,Record annual profits,0.52,Positive
-2024-06-28,Larsen & Toubro,Market share increases,0.67,Positive
-2024-02-18,Larsen & Toubro,Market uncertainty impacts growth,-0.98,Negative
-2024-11-06,Larsen & Toubro,Strong quarterly earnings,0.81,Positive
-2024-02-18,Larsen & Toubro,Strong quarterly earnings,0.98,Positive
-2024-09-27,Larsen & Toubro,Strong quarterly earnings,0.6,Positive
-2024-06-05,Larsen & Toubro,Market share increases,0.92,Positive
-2024-03-29,Larsen & Toubro,Successful business expansion,0.51,Positive
-2024-04-21,Larsen & Toubro,Expansion plans announced,0.92,Positive
-2024-03-20,Larsen & Toubro,Competition pressures revenue,-0.54,Negative
-2024-08-13,Larsen & Toubro,Revenue growth exceeds expectations,0.89,Positive
-2024-08-15,Larsen & Toubro,Strong quarterly earnings,0.96,Positive
-2024-03-02,Larsen & Toubro,Positive analyst outlook,0.46,Positive
-2024-12-15,Larsen & Toubro,Revenue growth exceeds expectations,0.94,Positive
-2024-09-11,Larsen & Toubro,Revenue growth exceeds expectations,1.0,Positive
-2024-06-21,Larsen & Toubro,Corporate event planned,0.07,Neutral
-2024-08-17,Larsen & Toubro,Expansion plans announced,0.6,Positive
-2024-07-06,Larsen & Toubro,New strategic partnership,0.98,Positive
-2024-09-08,Larsen & Toubro,Record annual profits,0.42,Positive
-2024-01-31,Larsen & Toubro,Corporate event planned,-0.08,Neutral
-2024-09-23,Larsen & Toubro,Market share increases,0.95,Positive
-2024-10-15,Larsen & Toubro,Analysts downgrade stock,-0.39,Negative
-2024-11-25,Larsen & Toubro,Positive analyst outlook,0.59,Positive
-2024-08-17,Larsen & Toubro,Positive analyst outlook,0.97,Positive
-2024-08-06,Larsen & Toubro,Business review announced,-0.02,Neutral
-2024-09-08,Larsen & Toubro,Successful business expansion,0.46,Positive
-2024-10-14,Larsen & Toubro,Corporate event planned,-0.02,Neutral
-2024-09-11,Larsen & Toubro,Strong quarterly earnings,0.72,Positive
-2024-01-22,Larsen & Toubro,Expansion plans announced,0.58,Positive
-2024-10-27,Hindustan Unilever,Weak quarterly performance,-0.49,Negative
-2024-01-25,Hindustan Unilever,Profit margins decline,-0.96,Negative
-2024-06-04,Hindustan Unilever,Management update released,-0.03,Neutral
-2024-10-02,Hindustan Unilever,Record annual profits,0.84,Positive
-2024-09-25,Hindustan Unilever,Market share increases,0.81,Positive
-2024-01-23,Hindustan Unilever,Expansion plans announced,0.67,Positive
-2024-04-05,Hindustan Unilever,Market share increases,0.44,Positive
-2024-04-14,Hindustan Unilever,Management update released,0.01,Neutral
-2024-11-09,Hindustan Unilever,Strong quarterly earnings,0.95,Positive
-2024-04-15,Hindustan Unilever,Positive analyst outlook,0.4,Positive
-2024-05-03,Hindustan Unilever,Revenue growth exceeds expectations,0.99,Positive
-2024-04-26,Hindustan Unilever,Record annual profits,0.43,Positive
-2024-03-13,Hindustan Unilever,Operational challenges reported,-0.5,Negative
-2024-05-12,Hindustan Unilever,Corporate event planned,0.04,Neutral
-2024-11-16,Hindustan Unilever,New strategic partnership,0.96,Positive
-2024-11-30,Hindustan Unilever,Record annual profits,0.81,Positive
-2024-07-31,Hindustan Unilever,Business review announced,-0.04,Neutral
-2024-04-07,Hindustan Unilever,Annual report published,0.02,Neutral
-2024-11-16,Hindustan Unilever,Board meeting scheduled,0.04,Neutral
-2024-08-17,Hindustan Unilever,New strategic partnership,0.44,Positive
-2024-02-28,Hindustan Unilever,Revenue growth exceeds expectations,0.94,Positive
-2024-09-07,Hindustan Unilever,Revenue growth exceeds expectations,0.72,Positive
-2024-03-26,Hindustan Unilever,Record annual profits,0.57,Positive
-2024-05-26,Hindustan Unilever,Positive analyst outlook,0.47,Positive
-2024-03-02,Hindustan Unilever,Management update released,0.09,Neutral
-2024-10-11,Hindustan Unilever,Management update released,-0.07,Neutral
-2024-01-19,Hindustan Unilever,Business review announced,-0.08,Neutral
-2024-04-27,Hindustan Unilever,Record annual profits,0.51,Positive
-2024-12-21,Hindustan Unilever,New strategic partnership,0.66,Positive
-2024-07-08,Hindustan Unilever,Management update released,-0.01,Neutral
-2024-01-22,Hindustan Unilever,Operational challenges reported,-0.39,Negative
-2024-06-11,Hindustan Unilever,Strong quarterly earnings,0.97,Positive
-2024-06-23,Hindustan Unilever,Revenue growth exceeds expectations,0.61,Positive
-2024-04-12,Hindustan Unilever,Record annual profits,0.63,Positive
-2024-05-29,Hindustan Unilever,Regulatory concerns emerge,-0.82,Negative
-2024-11-17,Hindustan Unilever,Market share increases,0.79,Positive
-2024-08-12,Hindustan Unilever,Successful business expansion,0.44,Positive
-2024-05-05,Hindustan Unilever,Market uncertainty impacts growth,-0.55,Negative
-2024-03-14,Hindustan Unilever,Competition pressures revenue,-0.95,Negative
-2024-12-16,Hindustan Unilever,Record annual profits,0.71,Positive
-2024-01-09,Hindustan Unilever,Weak quarterly performance,-0.42,Negative
-2024-06-13,Hindustan Unilever,Strong quarterly earnings,0.49,Positive
-2024-02-23,Hindustan Unilever,Strong quarterly earnings,0.63,Positive
-2024-10-15,Hindustan Unilever,Record annual profits,0.86,Positive
-2024-03-02,Hindustan Unilever,Strong quarterly earnings,0.74,Positive
-2024-02-07,Hindustan Unilever,Successful business expansion,0.96,Positive
-2024-11-26,Hindustan Unilever,Annual report published,0.04,Neutral
-2024-07-17,Hindustan Unilever,Management update released,0.04,Neutral
-2024-11-09,Hindustan Unilever,Market share increases,0.99,Positive
-2024-11-21,Hindustan Unilever,Business review announced,0.08,Neutral
+Date,Company,Headline,Sentiment_Score,Sentiment
+2025-06-26,ICICI Bank,FII buying seen in ICICI Bank shares,0.752,Positive
+2025-06-26,Larsen & Toubro,Larsen & Toubro announces expansion plans,0.8352,Positive
+2025-06-26,Bharti Airtel,Analysts upgrade Bharti Airtel to BUY,0.7079,Positive
+2025-06-27,HDFC Bank,HDFC Bank announces expansion plans,0.4144,Positive
+2025-06-27,Larsen & Toubro,FII buying seen in Larsen & Toubro shares,0.88,Positive
+2025-06-27,Reliance Industries,FII buying seen in Reliance Industries shares,0.6048,Positive
+2025-06-29,Bharti Airtel,"Bharti Airtel dividend declared, investors rejoice",0.7469,Positive
+2025-07-01,ICICI Bank,ICICI Bank Q3 results beat street estimates,0.5446,Positive
+2025-07-01,Infosys,FII buying seen in Infosys shares,0.3705,Positive
+2025-07-01,ITC,ITC posts record quarterly profit,0.5871,Positive
+2025-07-02,Reliance Industries,Analysts upgrade Reliance Industries to BUY,0.9576,Positive
+2025-07-05,ITC,ITC Q3 results beat street estimates,0.9329,Positive
+2025-07-06,HDFC Bank,HDFC Bank posts record quarterly profit,0.6541,Positive
+2025-07-06,Infosys,Infosys wins major government contract,0.7314,Positive
+2025-07-07,Infosys,"Infosys dividend declared, investors rejoice",0.633,Positive
+2025-07-08,SBI,SBI posts record quarterly profit,0.5546,Positive
+2025-07-08,Hindustan Unilever,Analysts upgrade Hindustan Unilever to BUY,0.594,Positive
+2025-07-08,ITC,"ITC dividend declared, investors rejoice",0.9882,Positive
+2025-07-09,Reliance Industries,Reliance Industries Q3 results beat street estimates,0.3662,Positive
+2025-07-09,TCS,TCS Q3 results beat street estimates,0.7642,Positive
+2025-07-11,Infosys,Infosys wins major government contract,1.0,Positive
+2025-07-12,Hindustan Unilever,"Hindustan Unilever dividend declared, investors rejoice",0.6232,Positive
+2025-07-12,TCS,TCS announces expansion plans,0.5522,Positive
+2025-07-12,TCS,Analysts upgrade TCS to BUY,0.5204,Positive
+2025-07-13,HDFC Bank,HDFC Bank wins major government contract,0.5386,Positive
+2025-07-13,ICICI Bank,ICICI Bank management meets analysts,0.0539,Neutral
+2025-07-13,HDFC Bank,"HDFC Bank dividend declared, investors rejoice",0.8356,Positive
+2025-07-13,Reliance Industries,Reliance Industries posts record quarterly profit,0.8437,Positive
+2025-07-14,ITC,ITC posts record quarterly profit,0.361,Positive
+2025-07-15,TCS,TCS posts record quarterly profit,0.702,Positive
+2025-07-15,Infosys,Infosys reports strong revenue growth,0.2019,Positive
+2025-07-16,Hindustan Unilever,Hindustan Unilever reports strong revenue growth,0.3709,Positive
+2025-07-17,Larsen & Toubro,Larsen & Toubro posts record quarterly profit,1.0,Positive
+2025-07-17,Larsen & Toubro,Larsen & Toubro wins major government contract,0.6922,Positive
+2025-07-17,Reliance Industries,FII buying seen in Reliance Industries shares,0.3374,Positive
+2025-07-19,Bharti Airtel,Bharti Airtel wins major government contract,0.8209,Positive
+2025-07-20,Bharti Airtel,Bharti Airtel announces expansion plans,0.7488,Positive
+2025-07-21,Reliance Industries,Reliance Industries announces expansion plans,0.6694,Positive
+2025-07-21,Infosys,Infosys wins major government contract,0.2205,Positive
+2025-07-22,SBI,Analysts upgrade SBI to BUY,0.4702,Positive
+2025-07-23,Reliance Industries,Reliance Industries posts record quarterly profit,1.0,Positive
+2025-07-24,ITC,ITC reports strong revenue growth,0.4602,Positive
+2025-07-25,Infosys,Infosys Q3 results beat street estimates,0.5595,Positive
+2025-07-27,SBI,SBI reports strong revenue growth,0.711,Positive
+2025-07-29,ITC,ITC announces expansion plans,0.8861,Positive
+2025-07-30,SBI,SBI board meeting scheduled,-0.0195,Neutral
+2025-07-31,Larsen & Toubro,Analysts upgrade Larsen & Toubro to BUY,0.9418,Positive
+2025-07-31,ICICI Bank,ICICI Bank announces expansion plans,0.703,Positive
+2025-08-01,Reliance Industries,Reliance Industries wins major government contract,0.5299,Positive
+2025-08-02,Reliance Industries,Reliance Industries wins major government contract,0.6982,Positive
+2025-08-02,Larsen & Toubro,Larsen & Toubro announces expansion plans,0.8396,Positive
+2025-08-03,ITC,FII buying seen in ITC shares,0.4845,Positive
+2025-08-03,Reliance Industries,Reliance Industries posts record quarterly profit,0.5473,Positive
+2025-08-03,Reliance Industries,Reliance Industries announces expansion plans,0.4883,Positive
+2025-08-03,HDFC Bank,HDFC Bank posts record quarterly profit,0.6484,Positive
+2025-08-06,ITC,FII buying seen in ITC shares,0.861,Positive
+2025-08-06,Larsen & Toubro,Larsen & Toubro announces expansion plans,0.5051,Positive
+2025-08-06,Hindustan Unilever,Analysts upgrade Hindustan Unilever to BUY,0.6699,Positive
+2025-08-07,Larsen & Toubro,Analysts upgrade Larsen & Toubro to BUY,0.6796,Positive
+2025-08-07,Hindustan Unilever,Analysts upgrade Hindustan Unilever to BUY,0.8713,Positive
+2025-08-10,SBI,SBI to announce results next week,0.0716,Neutral
+2025-08-11,Larsen & Toubro,"Larsen & Toubro dividend declared, investors rejoice",0.3741,Positive
+2025-08-11,Hindustan Unilever,"Hindustan Unilever dividend declared, investors rejoice",0.9762,Positive
+2025-08-12,SBI,FII buying seen in SBI shares,0.7494,Positive
+2025-08-12,TCS,TCS posts record quarterly profit,0.7262,Positive
+2025-08-13,TCS,TCS Q3 results beat street estimates,0.918,Positive
+2025-08-14,SBI,SBI reports strong revenue growth,0.4704,Positive
+2025-08-15,TCS,"TCS dividend declared, investors rejoice",0.8372,Positive
+2025-08-15,Larsen & Toubro,"Larsen & Toubro dividend declared, investors rejoice",0.6429,Positive
+2025-08-15,ICICI Bank,Analysts upgrade ICICI Bank to BUY,0.9237,Positive
+2025-08-16,Infosys,Infosys reports strong revenue growth,0.7699,Positive
+2025-08-17,ITC,ITC reports strong revenue growth,0.4819,Positive
+2025-08-17,Infosys,Infosys wins major government contract,0.3128,Positive
+2025-08-19,Larsen & Toubro,Analysts upgrade Larsen & Toubro to BUY,0.6147,Positive
+2025-08-19,ICICI Bank,"ICICI Bank dividend declared, investors rejoice",0.9028,Positive
+2025-08-20,TCS,Analysts upgrade TCS to BUY,0.5359,Positive
+2025-08-21,Bharti Airtel,FII buying seen in Bharti Airtel shares,0.9856,Positive
+2025-08-21,SBI,Analysts upgrade SBI to BUY,0.6089,Positive
+2025-08-21,Hindustan Unilever,Hindustan Unilever announces expansion plans,0.5451,Positive
+2025-08-22,ICICI Bank,ICICI Bank posts record quarterly profit,0.94,Positive
+2025-08-23,Bharti Airtel,Bharti Airtel reports strong revenue growth,0.7322,Positive
+2025-08-24,ICICI Bank,ICICI Bank wins major government contract,0.6317,Positive
+2025-08-25,SBI,SBI announces expansion plans,0.6629,Positive
+2025-08-25,HDFC Bank,"HDFC Bank dividend declared, investors rejoice",0.7947,Positive
+2025-08-25,Infosys,Infosys posts record quarterly profit,0.4214,Positive
+2025-08-25,Bharti Airtel,Bharti Airtel reports strong revenue growth,0.7129,Positive
+2025-08-26,TCS,TCS Q3 results beat street estimates,0.7094,Positive
+2025-08-27,HDFC Bank,HDFC Bank posts record quarterly profit,0.8173,Positive
+2025-08-27,ITC,ITC announces expansion plans,0.4839,Positive
+2025-08-27,Bharti Airtel,FII buying seen in Bharti Airtel shares,0.5252,Positive
+2025-08-27,ICICI Bank,FII buying seen in ICICI Bank shares,0.9216,Positive
+2025-08-28,Bharti Airtel,Bharti Airtel reports strong revenue growth,0.6959,Positive
+2025-08-28,ITC,ITC Q3 results beat street estimates,0.7724,Positive
+2025-08-29,ICICI Bank,FII buying seen in ICICI Bank shares,0.5675,Positive
+2025-08-29,Larsen & Toubro,Larsen & Toubro announces expansion plans,0.7402,Positive
+2025-08-29,HDFC Bank,FII buying seen in HDFC Bank shares,0.6204,Positive
+2025-08-31,ITC,Analysts upgrade ITC to BUY,1.0,Positive
+2025-09-03,ITC,ITC announces expansion plans,0.5541,Positive
+2025-09-03,SBI,SBI Q3 results beat street estimates,0.2395,Positive
+2025-09-03,Bharti Airtel,Bharti Airtel posts record quarterly profit,0.7864,Positive
+2025-09-03,SBI,SBI Q3 results beat street estimates,0.9931,Positive
+2025-09-04,Bharti Airtel,FII buying seen in Bharti Airtel shares,0.8312,Positive
+2025-09-05,Reliance Industries,Reliance Industries reports strong revenue growth,0.9425,Positive
+2025-09-05,ITC,ITC reports strong revenue growth,0.171,Positive
+2025-09-05,ITC,ITC announces expansion plans,0.362,Positive
+2025-09-06,Larsen & Toubro,Larsen & Toubro posts record quarterly profit,0.6438,Positive
+2025-09-06,SBI,"SBI dividend declared, investors rejoice",0.7411,Positive
+2025-09-06,Reliance Industries,Analysts upgrade Reliance Industries to BUY,0.5679,Positive
+2025-09-07,Bharti Airtel,Bharti Airtel wins major government contract,0.7162,Positive
+2025-09-08,Bharti Airtel,Bharti Airtel wins major government contract,0.825,Positive
+2025-09-10,SBI,"SBI dividend declared, investors rejoice",0.4984,Positive
+2025-09-11,Hindustan Unilever,Hindustan Unilever announces expansion plans,0.6037,Positive
+2025-09-11,ICICI Bank,ICICI Bank announces expansion plans,0.7764,Positive
+2025-09-11,Bharti Airtel,Bharti Airtel Q3 results beat street estimates,0.6938,Positive
+2025-09-13,ITC,ITC Q3 results beat street estimates,0.5053,Positive
+2025-09-13,HDFC Bank,HDFC Bank Q3 results beat street estimates,0.7218,Positive
+2025-09-14,ITC,ITC wins major government contract,0.9898,Positive
+2025-09-15,Hindustan Unilever,FII selling pressure in Hindustan Unilever,-0.1858,Negative
+2025-09-16,HDFC Bank,HDFC Bank announces expansion plans,0.7506,Positive
+2025-09-17,Larsen & Toubro,Larsen & Toubro reports strong revenue growth,0.5538,Positive
+2025-09-19,Bharti Airtel,Analysts upgrade Bharti Airtel to BUY,0.775,Positive
+2025-09-19,TCS,"TCS dividend declared, investors rejoice",0.7534,Positive
+2025-09-21,Hindustan Unilever,Hindustan Unilever announces expansion plans,0.6186,Positive
+2025-09-22,ICICI Bank,ICICI Bank reports strong revenue growth,0.7435,Positive
+2025-09-24,HDFC Bank,HDFC Bank reports strong revenue growth,0.924,Positive
+2025-09-25,Hindustan Unilever,FII buying seen in Hindustan Unilever shares,0.5295,Positive
+2025-09-26,SBI,"SBI dividend declared, investors rejoice",0.5321,Positive
+2025-09-26,Infosys,Infosys announces expansion plans,0.69,Positive
+2025-09-28,Reliance Industries,Reliance Industries Q3 results beat street estimates,0.8264,Positive
+2025-09-28,Reliance Industries,Analysts upgrade Reliance Industries to BUY,0.9431,Positive
+2025-10-02,ICICI Bank,"ICICI Bank dividend declared, investors rejoice",0.3716,Positive
+2025-10-03,Larsen & Toubro,Larsen & Toubro wins major government contract,0.6021,Positive
+2025-10-05,ITC,ITC reports strong revenue growth,0.6607,Positive
+2025-10-05,TCS,Analysts upgrade TCS to BUY,0.7512,Positive
+2025-10-05,Reliance Industries,Reliance Industries announces expansion plans,0.8145,Positive
+2025-10-05,Infosys,Infosys reports strong revenue growth,0.533,Positive
+2025-10-05,Bharti Airtel,"Bharti Airtel dividend declared, investors rejoice",0.714,Positive
+2025-10-06,Bharti Airtel,Bharti Airtel posts record quarterly profit,0.7114,Positive
+2025-10-07,Larsen & Toubro,FII buying seen in Larsen & Toubro shares,0.7427,Positive
+2025-10-07,Infosys,Infosys reports strong revenue growth,0.3458,Positive
+2025-10-07,Hindustan Unilever,Hindustan Unilever wins major government contract,0.8224,Positive
+2025-10-08,Reliance Industries,Reliance Industries announces expansion plans,0.7856,Positive
+2025-10-09,Larsen & Toubro,Larsen & Toubro reports strong revenue growth,0.8601,Positive
+2025-10-09,Reliance Industries,Reliance Industries Q3 results beat street estimates,0.6937,Positive
+2025-10-10,HDFC Bank,HDFC Bank Q3 results beat street estimates,0.6049,Positive
+2025-10-10,Larsen & Toubro,Larsen & Toubro Q3 results beat street estimates,0.6313,Positive
+2025-10-11,Reliance Industries,Reliance Industries Q3 results beat street estimates,0.4642,Positive
+2025-10-11,Hindustan Unilever,FII buying seen in Hindustan Unilever shares,0.5863,Positive
+2025-10-13,Infosys,Analysts upgrade Infosys to BUY,0.4806,Positive
+2025-10-13,Bharti Airtel,"Bharti Airtel dividend declared, investors rejoice",0.538,Positive
+2025-10-14,TCS,"TCS dividend declared, investors rejoice",0.8128,Positive
+2025-10-14,ITC,ITC posts record quarterly profit,0.5151,Positive
+2025-10-15,ITC,ITC wins major government contract,0.7642,Positive
+2025-10-16,HDFC Bank,HDFC Bank reports strong revenue growth,0.7016,Positive
+2025-10-17,TCS,TCS Q3 results beat street estimates,0.7595,Positive
+2025-10-17,Reliance Industries,Reliance Industries wins major government contract,0.8642,Positive
+2025-10-18,Larsen & Toubro,Larsen & Toubro reports strong revenue growth,0.4237,Positive
+2025-10-19,Infosys,Analysts upgrade Infosys to BUY,0.7049,Positive
+2025-10-20,HDFC Bank,HDFC Bank Q3 results beat street estimates,0.3875,Positive
+2025-10-20,ICICI Bank,FII buying seen in ICICI Bank shares,0.8446,Positive
+2025-10-22,ICICI Bank,ICICI Bank announces expansion plans,0.6614,Positive
+2025-10-22,Infosys,Infosys announces expansion plans,0.9558,Positive
+2025-10-22,TCS,Analysts upgrade TCS to BUY,0.8714,Positive
+2025-10-22,ITC,Analysts upgrade ITC to BUY,0.8249,Positive
+2025-10-23,Bharti Airtel,Bharti Airtel announces expansion plans,0.7425,Positive
+2025-10-25,Reliance Industries,Analysts upgrade Reliance Industries to BUY,0.5411,Positive
+2025-10-29,TCS,TCS Q3 results beat street estimates,0.6967,Positive
+2025-10-30,HDFC Bank,HDFC Bank wins major government contract,0.8406,Positive
+2025-10-30,ICICI Bank,ICICI Bank Q3 results beat street estimates,0.4694,Positive
+2025-10-30,ICICI Bank,ICICI Bank Q3 results beat street estimates,0.4593,Positive
+2025-10-30,ICICI Bank,ICICI Bank posts record quarterly profit,0.5955,Positive
+2025-10-30,Larsen & Toubro,Larsen & Toubro posts record quarterly profit,0.5329,Positive
+2025-10-31,ICICI Bank,Analysts upgrade ICICI Bank to BUY,0.5388,Positive
+2025-11-01,Bharti Airtel,"Bharti Airtel dividend declared, investors rejoice",0.5462,Positive
+2025-11-01,Hindustan Unilever,Hindustan Unilever posts record quarterly profit,0.331,Positive
+2025-11-02,Hindustan Unilever,Hindustan Unilever announces expansion plans,0.1737,Positive
+2025-11-02,Reliance Industries,Reliance Industries posts record quarterly profit,0.9577,Positive
+2025-11-02,SBI,"SBI dividend declared, investors rejoice",0.453,Positive
+2025-11-03,Bharti Airtel,"Bharti Airtel dividend declared, investors rejoice",0.6796,Positive
+2025-11-03,ICICI Bank,FII buying seen in ICICI Bank shares,0.3525,Positive
+2025-11-03,Hindustan Unilever,FII buying seen in Hindustan Unilever shares,0.5708,Positive
+2025-11-05,TCS,"TCS dividend declared, investors rejoice",0.6809,Positive
+2025-11-05,TCS,Analysts upgrade TCS to BUY,0.5695,Positive
+2025-11-05,ICICI Bank,ICICI Bank posts record quarterly profit,0.8215,Positive
+2025-11-05,SBI,SBI reports strong revenue growth,0.7704,Positive
+2025-11-07,TCS,Analysts upgrade TCS to BUY,0.6613,Positive
+2025-11-07,Reliance Industries,Reliance Industries wins major government contract,0.9456,Positive
+2025-11-07,Reliance Industries,Reliance Industries posts record quarterly profit,0.7825,Positive
+2025-11-08,HDFC Bank,FII buying seen in HDFC Bank shares,0.9237,Positive
+2025-11-09,SBI,"SBI dividend declared, investors rejoice",0.5784,Positive
+2025-11-09,SBI,SBI posts record quarterly profit,0.7853,Positive
+2025-11-11,Reliance Industries,Reliance Industries reports strong revenue growth,0.7093,Positive
+2025-11-11,Larsen & Toubro,Analysts upgrade Larsen & Toubro to BUY,0.4365,Positive
+2025-11-12,Larsen & Toubro,Larsen & Toubro Q3 results beat street estimates,0.3353,Positive
+2025-11-12,Larsen & Toubro,Larsen & Toubro announces expansion plans,0.5751,Positive
+2025-11-12,Bharti Airtel,Bharti Airtel announces expansion plans,0.695,Positive
+2025-11-14,Hindustan Unilever,FII buying seen in Hindustan Unilever shares,0.5027,Positive
+2025-11-14,TCS,TCS posts record quarterly profit,0.7517,Positive
+2025-11-14,Bharti Airtel,"Bharti Airtel dividend declared, investors rejoice",0.6955,Positive
+2025-11-14,Hindustan Unilever,Hindustan Unilever reports strong revenue growth,0.8613,Positive
+2025-11-15,Hindustan Unilever,Hindustan Unilever announces expansion plans,0.1636,Positive
+2025-11-15,Bharti Airtel,Bharti Airtel announces expansion plans,0.6595,Positive
+2025-11-16,Hindustan Unilever,Hindustan Unilever reports strong revenue growth,0.8236,Positive
+2025-11-16,Hindustan Unilever,"Hindustan Unilever dividend declared, investors rejoice",0.4312,Positive
+2025-11-16,Reliance Industries,Reliance Industries reports strong revenue growth,0.8585,Positive
+2025-11-16,Infosys,Infosys reports strong revenue growth,0.8194,Positive
+2025-11-16,ITC,ITC posts record quarterly profit,0.3845,Positive
+2025-11-18,TCS,"TCS dividend declared, investors rejoice",0.4325,Positive
+2025-11-18,HDFC Bank,Analysts upgrade HDFC Bank to BUY,0.5212,Positive
+2025-11-21,HDFC Bank,"HDFC Bank dividend declared, investors rejoice",0.8596,Positive
+2025-11-21,HDFC Bank,HDFC Bank reports strong revenue growth,0.7661,Positive
+2025-11-22,ITC,ITC wins major government contract,0.7552,Positive
+2025-11-22,ICICI Bank,ICICI Bank announces expansion plans,0.5395,Positive
+2025-11-23,Reliance Industries,Reliance Industries reports strong revenue growth,0.7629,Positive
+2025-11-23,Bharti Airtel,Bharti Airtel Q3 results beat street estimates,0.6036,Positive
+2025-11-24,ICICI Bank,"ICICI Bank dividend declared, investors rejoice",0.8184,Positive
+2025-11-26,HDFC Bank,HDFC Bank reports strong revenue growth,0.4928,Positive
+2025-11-27,ITC,"ITC dividend declared, investors rejoice",0.6499,Positive
+2025-11-28,ITC,ITC posts record quarterly profit,0.6625,Positive
+2025-11-28,Larsen & Toubro,Larsen & Toubro posts record quarterly profit,0.8999,Positive
+2025-11-30,TCS,TCS Q3 results beat street estimates,0.6993,Positive
+2025-11-30,Hindustan Unilever,Hindustan Unilever posts record quarterly profit,0.3125,Positive
+2025-11-30,Reliance Industries,Reliance Industries reports strong revenue growth,0.6551,Positive
+2025-12-01,ICICI Bank,Analysts upgrade ICICI Bank to BUY,0.7869,Positive
+2025-12-01,Reliance Industries,Reliance Industries reports strong revenue growth,0.5703,Positive
+2025-12-03,Hindustan Unilever,Hindustan Unilever posts record quarterly profit,1.0,Positive
+2025-12-03,ICICI Bank,"ICICI Bank dividend declared, investors rejoice",0.5934,Positive
+2025-12-04,Infosys,"Infosys dividend declared, investors rejoice",0.4901,Positive
+2025-12-05,SBI,SBI wins major government contract,0.1326,Positive
+2025-12-06,ICICI Bank,ICICI Bank announces expansion plans,0.7362,Positive
+2025-12-07,Bharti Airtel,Bharti Airtel posts record quarterly profit,0.6972,Positive
+2025-12-09,Hindustan Unilever,Analysts upgrade Hindustan Unilever to BUY,0.3189,Positive
+2025-12-09,Larsen & Toubro,Larsen & Toubro wins major government contract,0.5305,Positive
+2025-12-10,SBI,"SBI dividend declared, investors rejoice",0.7427,Positive
+2025-12-10,Larsen & Toubro,Larsen & Toubro posts record quarterly profit,0.8939,Positive
+2025-12-10,TCS,TCS Q3 results beat street estimates,0.5247,Positive
+2025-12-11,ICICI Bank,ICICI Bank reports strong revenue growth,0.9529,Positive
+2025-12-13,ICICI Bank,Analysts upgrade ICICI Bank to BUY,0.9813,Positive
+2025-12-13,Bharti Airtel,FII buying seen in Bharti Airtel shares,0.9209,Positive
+2025-12-13,Hindustan Unilever,Hindustan Unilever posts record quarterly profit,0.8683,Positive
+2025-12-14,HDFC Bank,FII buying seen in HDFC Bank shares,0.8932,Positive
+2025-12-14,SBI,FII buying seen in SBI shares,0.3056,Positive
+2025-12-15,Hindustan Unilever,"Hindustan Unilever dividend declared, investors rejoice",0.6184,Positive
+2025-12-16,Hindustan Unilever,Hindustan Unilever announces expansion plans,0.5001,Positive
+2025-12-16,ICICI Bank,Analysts upgrade ICICI Bank to BUY,0.3684,Positive
+2025-12-16,Infosys,FII buying seen in Infosys shares,1.0,Positive
+2025-12-16,HDFC Bank,Analysts upgrade HDFC Bank to BUY,0.9284,Positive
+2025-12-17,HDFC Bank,HDFC Bank posts record quarterly profit,0.593,Positive
+2025-12-19,Reliance Industries,Reliance Industries reports strong revenue growth,0.7531,Positive
+2025-12-19,Infosys,FII buying seen in Infosys shares,0.7836,Positive
+2025-12-20,Reliance Industries,Reliance Industries Q3 results beat street estimates,0.7707,Positive
+2025-12-20,Hindustan Unilever,FII buying seen in Hindustan Unilever shares,0.494,Positive
+2025-12-21,HDFC Bank,FII buying seen in HDFC Bank shares,0.7788,Positive
+2025-12-22,Infosys,Infosys announces expansion plans,0.2423,Positive
+2025-12-24,ITC,ITC reports strong revenue growth,1.0,Positive
+2025-12-24,ICICI Bank,ICICI Bank posts record quarterly profit,0.7962,Positive
+2025-12-25,ICICI Bank,ICICI Bank Q3 results beat street estimates,0.3625,Positive
+2025-12-26,ITC,"ITC dividend declared, investors rejoice",0.5253,Positive
+2025-12-26,ITC,ITC Q3 results beat street estimates,0.3194,Positive
+2025-12-26,Bharti Airtel,Bharti Airtel reports strong revenue growth,0.9239,Positive
+2025-12-27,TCS,FII buying seen in TCS shares,0.7512,Positive
+2025-12-28,SBI,SBI announces expansion plans,0.3829,Positive
+2025-12-29,Reliance Industries,FII buying seen in Reliance Industries shares,0.6378,Positive
+2025-12-29,SBI,SBI reports strong revenue growth,0.4504,Positive
+2025-12-29,Infosys,Infosys posts record quarterly profit,0.6893,Positive
+2025-12-30,Larsen & Toubro,Larsen & Toubro announces expansion plans,1.0,Positive
+2025-12-30,HDFC Bank,HDFC Bank wins major government contract,0.9584,Positive
+2025-12-30,SBI,SBI announces expansion plans,1.0,Positive
+2025-12-31,Larsen & Toubro,Larsen & Toubro posts record quarterly profit,0.865,Positive
+2025-12-31,ICICI Bank,Analysts upgrade ICICI Bank to BUY,0.6594,Positive
+2025-12-31,HDFC Bank,HDFC Bank posts record quarterly profit,0.6277,Positive
+2025-12-31,Larsen & Toubro,"Larsen & Toubro dividend declared, investors rejoice",0.5959,Positive
+2026-01-01,Larsen & Toubro,Larsen & Toubro reports strong revenue growth,0.6485,Positive
+2026-01-01,Larsen & Toubro,Larsen & Toubro wins major government contract,0.4986,Positive
+2026-01-02,Hindustan Unilever,Analysts upgrade Hindustan Unilever to BUY,0.8268,Positive
+2026-01-03,HDFC Bank,HDFC Bank announces expansion plans,0.655,Positive
+2026-01-04,Infosys,Analysts upgrade Infosys to BUY,0.4888,Positive
+2026-01-04,Bharti Airtel,"Bharti Airtel dividend declared, investors rejoice",0.7015,Positive
+2026-01-04,ICICI Bank,ICICI Bank posts record quarterly profit,0.4337,Positive
+2026-01-05,SBI,SBI board meeting scheduled,0.0638,Neutral
+2026-01-05,Reliance Industries,Reliance Industries posts record quarterly profit,0.817,Positive
+2026-01-07,Larsen & Toubro,Larsen & Toubro Q3 results beat street estimates,0.5712,Positive
+2026-01-07,Reliance Industries,Reliance Industries reports strong revenue growth,0.5496,Positive
+2026-01-07,Hindustan Unilever,Hindustan Unilever wins major government contract,0.6499,Positive
+2026-01-09,Infosys,Infosys announces expansion plans,0.8272,Positive
+2026-01-11,ICICI Bank,"ICICI Bank dividend declared, investors rejoice",0.8359,Positive
+2026-01-12,TCS,TCS Q3 results beat street estimates,0.5356,Positive
+2026-01-13,HDFC Bank,Analysts upgrade HDFC Bank to BUY,0.7219,Positive
+2026-01-14,Hindustan Unilever,Hindustan Unilever wins major government contract,0.5963,Positive
+2026-01-14,HDFC Bank,HDFC Bank announces expansion plans,0.6736,Positive
+2026-01-15,ITC,ITC wins major government contract,0.7256,Positive
+2026-01-16,SBI,"SBI dividend declared, investors rejoice",0.6692,Positive
+2026-01-16,ITC,ITC posts record quarterly profit,0.6091,Positive
+2026-01-17,Hindustan Unilever,FII buying seen in Hindustan Unilever shares,0.8454,Positive
+2026-01-17,Infosys,Analysts upgrade Infosys to BUY,0.6122,Positive
+2026-01-17,TCS,TCS posts record quarterly profit,0.9829,Positive
+2026-01-19,TCS,"TCS dividend declared, investors rejoice",0.6884,Positive
+2026-01-20,SBI,"SBI dividend declared, investors rejoice",0.5419,Positive
+2026-01-20,SBI,Analysts upgrade SBI to BUY,0.9765,Positive
+2026-01-22,Infosys,Infosys announces expansion plans,0.8779,Positive
+2026-01-23,ITC,ITC posts record quarterly profit,0.4176,Positive
+2026-01-24,Bharti Airtel,Bharti Airtel reports strong revenue growth,1.0,Positive
+2026-01-25,TCS,"TCS dividend declared, investors rejoice",0.7708,Positive
+2026-01-26,TCS,FII buying seen in TCS shares,0.9808,Positive
+2026-01-26,HDFC Bank,HDFC Bank posts record quarterly profit,0.9529,Positive
+2026-01-26,Bharti Airtel,Bharti Airtel announces expansion plans,0.7995,Positive
+2026-01-28,ITC,ITC announces expansion plans,0.8994,Positive
+2026-01-29,HDFC Bank,HDFC Bank reports strong revenue growth,0.9107,Positive
+2026-01-29,TCS,TCS announces expansion plans,0.5355,Positive
+2026-01-29,Bharti Airtel,Bharti Airtel posts record quarterly profit,0.7925,Positive
+2026-01-30,TCS,TCS Q3 results beat street estimates,0.922,Positive
+2026-01-30,HDFC Bank,HDFC Bank posts record quarterly profit,0.7237,Positive
+2026-01-30,TCS,TCS wins major government contract,0.5977,Positive
+2026-01-31,Bharti Airtel,Bharti Airtel Q3 results beat street estimates,0.9227,Positive
+2026-01-31,SBI,SBI announces expansion plans,0.5693,Positive
+2026-02-01,SBI,SBI posts record quarterly profit,0.9691,Positive
+2026-02-01,Hindustan Unilever,Hindustan Unilever reports strong revenue growth,0.6139,Positive
+2026-02-01,HDFC Bank,HDFC Bank posts record quarterly profit,0.6043,Positive
+2026-02-02,HDFC Bank,HDFC Bank posts record quarterly profit,0.4512,Positive
+2026-02-02,Infosys,Infosys reports strong revenue growth,0.7268,Positive
+2026-02-02,HDFC Bank,FII buying seen in HDFC Bank shares,0.6151,Positive
+2026-02-02,Infosys,FII buying seen in Infosys shares,0.464,Positive
+2026-02-03,Infosys,Infosys wins major government contract,0.5745,Positive
+2026-02-03,HDFC Bank,"HDFC Bank dividend declared, investors rejoice",1.0,Positive
+2026-02-06,Larsen & Toubro,FII buying seen in Larsen & Toubro shares,0.7514,Positive
+2026-02-07,SBI,Analysts upgrade SBI to BUY,0.5005,Positive
+2026-02-07,Reliance Industries,Analysts upgrade Reliance Industries to BUY,0.4909,Positive
+2026-02-09,SBI,SBI posts record quarterly profit,0.4229,Positive
+2026-02-09,TCS,"TCS dividend declared, investors rejoice",0.624,Positive
+2026-02-11,TCS,Analysts upgrade TCS to BUY,0.6425,Positive
+2026-02-11,Reliance Industries,Reliance Industries reports strong revenue growth,0.6722,Positive
+2026-02-12,SBI,"SBI dividend declared, investors rejoice",0.5863,Positive
+2026-02-13,SBI,"SBI dividend declared, investors rejoice",0.6858,Positive
+2026-02-15,Reliance Industries,FII buying seen in Reliance Industries shares,0.7223,Positive
+2026-02-15,Larsen & Toubro,FII buying seen in Larsen & Toubro shares,0.4624,Positive
+2026-02-17,Infosys,Infosys announces expansion plans,0.4413,Positive
+2026-02-17,TCS,Analysts upgrade TCS to BUY,0.3295,Positive
+2026-02-17,Bharti Airtel,Bharti Airtel announces expansion plans,1.0,Positive
+2026-02-18,ITC,Analysts upgrade ITC to BUY,0.5681,Positive
+2026-02-18,TCS,Analysts upgrade TCS to BUY,0.5699,Positive
+2026-02-18,Infosys,"Infosys dividend declared, investors rejoice",0.3317,Positive
+2026-02-19,ICICI Bank,ICICI Bank Q3 results beat street estimates,0.6864,Positive
+2026-02-20,HDFC Bank,HDFC Bank wins major government contract,0.6747,Positive
+2026-02-20,TCS,TCS Q3 results beat street estimates,0.6948,Positive
+2026-02-20,HDFC Bank,HDFC Bank announces expansion plans,0.7193,Positive
+2026-02-22,Infosys,Infosys announces expansion plans,0.3384,Positive
+2026-02-24,HDFC Bank,HDFC Bank reports strong revenue growth,0.7187,Positive
+2026-02-24,Bharti Airtel,"Bharti Airtel dividend declared, investors rejoice",0.9215,Positive
+2026-02-24,Infosys,"Infosys dividend declared, investors rejoice",0.505,Positive
+2026-02-25,TCS,TCS wins major government contract,0.7691,Positive
+2026-02-25,ICICI Bank,"ICICI Bank dividend declared, investors rejoice",0.6308,Positive
+2026-02-26,Hindustan Unilever,Hindustan Unilever reports strong revenue growth,0.457,Positive
+2026-02-26,TCS,TCS Q3 results beat street estimates,0.8281,Positive
+2026-02-27,Bharti Airtel,"Bharti Airtel dividend declared, investors rejoice",0.8635,Positive
+2026-02-27,ICICI Bank,ICICI Bank reports strong revenue growth,0.3814,Positive
+2026-02-28,Infosys,Infosys Q3 results beat street estimates,0.4693,Positive
+2026-02-28,SBI,SBI wins major government contract,0.3226,Positive
+2026-03-01,Hindustan Unilever,Hindustan Unilever Q3 results beat street estimates,0.2602,Positive
+2026-03-01,Infosys,Infosys wins major government contract,0.5729,Positive
+2026-03-01,HDFC Bank,"HDFC Bank dividend declared, investors rejoice",0.7132,Positive
+2026-03-03,Hindustan Unilever,Hindustan Unilever announces expansion plans,0.3886,Positive
+2026-03-04,HDFC Bank,HDFC Bank wins major government contract,0.8549,Positive
+2026-03-05,SBI,SBI wins major government contract,0.7097,Positive
+2026-03-05,TCS,FII buying seen in TCS shares,0.6903,Positive
+2026-03-05,Bharti Airtel,Analysts upgrade Bharti Airtel to BUY,0.9311,Positive
+2026-03-05,ITC,ITC board meeting scheduled,0.0881,Neutral
+2026-03-05,TCS,TCS reports strong revenue growth,0.5418,Positive
+2026-03-07,SBI,SBI Q3 results beat street estimates,0.3347,Positive
+2026-03-07,Bharti Airtel,Bharti Airtel Q3 results beat street estimates,0.7699,Positive
+2026-03-07,ITC,ITC wins major government contract,0.7487,Positive
+2026-03-08,ITC,ITC wins major government contract,0.5259,Positive
+2026-03-10,Reliance Industries,Reliance Industries wins major government contract,0.7158,Positive
+2026-03-15,ICICI Bank,"ICICI Bank dividend declared, investors rejoice",0.8983,Positive
+2026-03-15,Larsen & Toubro,Larsen & Toubro posts record quarterly profit,0.7727,Positive
+2026-03-15,Reliance Industries,Reliance Industries Q3 results beat street estimates,0.54,Positive
+2026-03-15,Reliance Industries,Analysts upgrade Reliance Industries to BUY,0.4666,Positive
+2026-03-16,Bharti Airtel,Bharti Airtel announces expansion plans,0.8299,Positive
+2026-03-17,SBI,SBI posts record quarterly profit,0.6152,Positive
+2026-03-18,Reliance Industries,Reliance Industries reports strong revenue growth,0.7285,Positive
+2026-03-19,Infosys,Infosys posts record quarterly profit,0.4101,Positive
+2026-03-19,TCS,TCS wins major government contract,0.6635,Positive
+2026-03-19,TCS,TCS posts record quarterly profit,0.9683,Positive
+2026-03-19,Larsen & Toubro,Analysts upgrade Larsen & Toubro to BUY,0.7637,Positive
+2026-03-19,TCS,TCS wins major government contract,0.8224,Positive
+2026-03-19,Hindustan Unilever,Hindustan Unilever reports strong revenue growth,0.3105,Positive
+2026-03-21,TCS,TCS Q3 results beat street estimates,0.7042,Positive
+2026-03-21,ITC,ITC posts record quarterly profit,0.814,Positive
+2026-03-22,Infosys,Infosys wins major government contract,0.681,Positive
+2026-03-22,HDFC Bank,HDFC Bank Q3 results beat street estimates,0.7774,Positive
+2026-03-24,SBI,SBI posts record quarterly profit,0.6752,Positive
+2026-03-24,Infosys,"Infosys dividend declared, investors rejoice",0.5473,Positive
+2026-03-24,SBI,FII buying seen in SBI shares,0.294,Positive
+2026-03-25,Infosys,Infosys wins major government contract,0.4821,Positive
+2026-03-25,ICICI Bank,Analysts upgrade ICICI Bank to BUY,0.6937,Positive
+2026-03-26,ITC,FII buying seen in ITC shares,0.7179,Positive
+2026-03-26,ICICI Bank,"ICICI Bank dividend declared, investors rejoice",0.6375,Positive
+2026-03-26,Reliance Industries,FII buying seen in Reliance Industries shares,0.5917,Positive
+2026-03-28,Infosys,Infosys Q3 results beat street estimates,0.4755,Positive
+2026-03-28,ITC,Analysts upgrade ITC to BUY,0.289,Positive
+2026-03-29,Larsen & Toubro,Larsen & Toubro posts record quarterly profit,0.5301,Positive
+2026-03-29,Infosys,Infosys Q3 results beat street estimates,0.3478,Positive
+2026-03-30,Reliance Industries,Reliance Industries reports strong revenue growth,0.6252,Positive
+2026-03-31,ITC,ITC posts record quarterly profit,0.5686,Positive
+2026-04-01,Larsen & Toubro,Larsen & Toubro Q3 results beat street estimates,0.4554,Positive
+2026-04-01,ITC,ITC announces expansion plans,0.6096,Positive
+2026-04-04,ICICI Bank,"ICICI Bank dividend declared, investors rejoice",0.6237,Positive
+2026-04-05,Hindustan Unilever,Hindustan Unilever wins major government contract,0.4003,Positive
+2026-04-06,Larsen & Toubro,FII buying seen in Larsen & Toubro shares,0.7599,Positive
+2026-04-06,Reliance Industries,Analysts upgrade Reliance Industries to BUY,0.8361,Positive
+2026-04-07,Larsen & Toubro,Larsen & Toubro reports strong revenue growth,0.7184,Positive
+2026-04-09,ICICI Bank,ICICI Bank announces expansion plans,0.6283,Positive
+2026-04-09,SBI,SBI to announce results next week,-0.002,Neutral
+2026-04-11,Infosys,Infosys announces expansion plans,0.8065,Positive
+2026-04-13,Hindustan Unilever,Hindustan Unilever posts record quarterly profit,0.4325,Positive
+2026-04-18,ITC,FII buying seen in ITC shares,0.3844,Positive
+2026-04-19,Larsen & Toubro,Larsen & Toubro posts record quarterly profit,0.4988,Positive
+2026-04-20,SBI,SBI Q3 results beat street estimates,0.1804,Positive
+2026-04-22,Larsen & Toubro,"Larsen & Toubro dividend declared, investors rejoice",0.5304,Positive
+2026-04-23,Bharti Airtel,Bharti Airtel posts record quarterly profit,0.8057,Positive
+2026-04-25,Larsen & Toubro,Larsen & Toubro reports strong revenue growth,1.0,Positive
+2026-04-25,Reliance Industries,Reliance Industries wins major government contract,0.8331,Positive
+2026-04-26,ICICI Bank,ICICI Bank posts record quarterly profit,0.6875,Positive
+2026-04-27,Infosys,Infosys wins major government contract,0.7099,Positive
+2026-04-27,SBI,SBI posts record quarterly profit,0.52,Positive
+2026-04-28,Hindustan Unilever,Hindustan Unilever reports strong revenue growth,0.4778,Positive
+2026-04-29,Hindustan Unilever,FII buying seen in Hindustan Unilever shares,0.1322,Positive
+2026-04-29,HDFC Bank,HDFC Bank reports strong revenue growth,0.7536,Positive
+2026-04-29,Infosys,Analysts upgrade Infosys to BUY,0.2757,Positive
+2026-04-29,Infosys,"Infosys dividend declared, investors rejoice",0.6715,Positive
+2026-05-02,ITC,Analysts upgrade ITC to BUY,0.8104,Positive
+2026-05-02,ITC,ITC announces expansion plans,0.59,Positive
+2026-05-03,Reliance Industries,Reliance Industries announces expansion plans,0.4058,Positive
+2026-05-03,ICICI Bank,FII buying seen in ICICI Bank shares,0.7545,Positive
+2026-05-04,HDFC Bank,FII buying seen in HDFC Bank shares,0.653,Positive
+2026-05-05,HDFC Bank,Analysts upgrade HDFC Bank to BUY,0.7013,Positive
+2026-05-05,TCS,Analysts upgrade TCS to BUY,0.8227,Positive
+2026-05-06,ITC,ITC reports strong revenue growth,0.7545,Positive
+2026-05-06,ICICI Bank,ICICI Bank announces expansion plans,0.8544,Positive
+2026-05-06,Infosys,Infosys posts record quarterly profit,0.4288,Positive
+2026-05-08,ITC,FII buying seen in ITC shares,0.8453,Positive
+2026-05-08,Reliance Industries,Reliance Industries Q3 results beat street estimates,0.1622,Positive
+2026-05-10,SBI,"SBI dividend declared, investors rejoice",0.7969,Positive
+2026-05-10,Larsen & Toubro,Larsen & Toubro posts record quarterly profit,0.6686,Positive
+2026-05-10,ITC,ITC wins major government contract,0.6564,Positive
+2026-05-11,HDFC Bank,Analysts upgrade HDFC Bank to BUY,0.8219,Positive
+2026-05-11,Hindustan Unilever,Hindustan Unilever Q3 results beat street estimates,0.7236,Positive
+2026-05-14,Infosys,Infosys posts record quarterly profit,0.6562,Positive
+2026-05-15,SBI,SBI posts record quarterly profit,0.6402,Positive
+2026-05-16,Reliance Industries,Reliance Industries posts record quarterly profit,0.4813,Positive
+2026-05-18,Larsen & Toubro,Larsen & Toubro wins major government contract,1.0,Positive
+2026-05-18,Hindustan Unilever,Analysts upgrade Hindustan Unilever to BUY,0.8657,Positive
+2026-05-21,Bharti Airtel,FII buying seen in Bharti Airtel shares,0.5821,Positive
+2026-05-24,Infosys,Infosys posts record quarterly profit,0.8561,Positive
+2026-05-24,Reliance Industries,Reliance Industries Q3 results beat street estimates,0.6145,Positive
+2026-05-24,Hindustan Unilever,Analysts upgrade Hindustan Unilever to BUY,0.5512,Positive
+2026-05-25,ITC,ITC reports strong revenue growth,1.0,Positive
+2026-05-28,Larsen & Toubro,Larsen & Toubro Q3 results beat street estimates,0.7015,Positive
+2026-05-29,SBI,SBI wins major government contract,0.3884,Positive
+2026-05-30,Bharti Airtel,Bharti Airtel posts record quarterly profit,0.9931,Positive
+2026-05-30,TCS,TCS wins major government contract,0.702,Positive
+2026-05-31,Hindustan Unilever,Hindustan Unilever wins major government contract,0.5551,Positive
+2026-05-31,ICICI Bank,FII buying seen in ICICI Bank shares,0.7121,Positive
+2026-06-01,ITC,"ITC AGM held, no major announcements",0.0806,Neutral
+2026-06-01,Larsen & Toubro,Larsen & Toubro reports strong revenue growth,0.7102,Positive
+2026-06-01,SBI,SBI posts record quarterly profit,0.2796,Positive
+2026-06-01,Bharti Airtel,FII buying seen in Bharti Airtel shares,0.7429,Positive
+2026-06-03,Infosys,Infosys announces expansion plans,0.5351,Positive
+2026-06-03,Hindustan Unilever,Hindustan Unilever announces expansion plans,0.7023,Positive
+2026-06-04,TCS,"TCS dividend declared, investors rejoice",0.7219,Positive
+2026-06-07,HDFC Bank,FII buying seen in HDFC Bank shares,0.9555,Positive
+2026-06-07,ITC,ITC wins major government contract,0.8977,Positive
+2026-06-09,Bharti Airtel,FII buying seen in Bharti Airtel shares,0.7388,Positive
+2026-06-09,Bharti Airtel,Bharti Airtel reports strong revenue growth,0.9539,Positive
+2026-06-09,TCS,TCS wins major government contract,0.7595,Positive
+2026-06-10,Infosys,Infosys Q3 results beat street estimates,0.7819,Positive
+2026-06-10,Larsen & Toubro,Larsen & Toubro announces expansion plans,0.8318,Positive
+2026-06-11,Larsen & Toubro,"Larsen & Toubro dividend declared, investors rejoice",0.6816,Positive
+2026-06-11,Hindustan Unilever,Hindustan Unilever announces expansion plans,0.4553,Positive
+2026-06-11,Hindustan Unilever,Hindustan Unilever posts record quarterly profit,0.736,Positive
+2026-06-11,SBI,FII buying seen in SBI shares,0.8359,Positive
+2026-06-12,Larsen & Toubro,Larsen & Toubro wins major government contract,0.3971,Positive
+2026-06-13,SBI,Analysts upgrade SBI to BUY,0.9718,Positive
+2026-06-13,Reliance Industries,Reliance Industries Q3 results beat street estimates,0.5463,Positive
+2026-06-13,SBI,FII buying seen in SBI shares,0.4044,Positive
+2026-06-14,Bharti Airtel,Analysts upgrade Bharti Airtel to BUY,0.6409,Positive
+2026-06-14,Bharti Airtel,"Bharti Airtel dividend declared, investors rejoice",0.8431,Positive
+2026-06-14,HDFC Bank,HDFC Bank reports strong revenue growth,0.5887,Positive
+2026-06-16,ICICI Bank,ICICI Bank Q3 results beat street estimates,0.8923,Positive
+2026-06-17,Bharti Airtel,Bharti Airtel Q3 results beat street estimates,0.7415,Positive
+2026-06-17,TCS,TCS posts record quarterly profit,0.7752,Positive
+2026-06-17,HDFC Bank,HDFC Bank reports strong revenue growth,0.8121,Positive
+2026-06-18,HDFC Bank,HDFC Bank announces expansion plans,0.6848,Positive
+2026-06-18,ICICI Bank,ICICI Bank wins major government contract,0.95,Positive
+2026-06-19,Hindustan Unilever,Hindustan Unilever reports strong revenue growth,0.663,Positive
+2026-06-19,Hindustan Unilever,Hindustan Unilever reports strong revenue growth,0.4415,Positive
+2026-06-22,Bharti Airtel,"Bharti Airtel dividend declared, investors rejoice",0.9155,Positive
+2026-06-24,TCS,TCS posts record quarterly profit,0.7567,Positive
+2026-06-24,Bharti Airtel,Bharti Airtel posts record quarterly profit,0.8805,Positive
+2026-06-25,ICICI Bank,Analysts upgrade ICICI Bank to BUY,0.3922,Positive
+2026-06-25,ICICI Bank,ICICI Bank reports strong revenue growth,0.6662,Positive
