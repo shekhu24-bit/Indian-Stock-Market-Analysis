@@ -1,0 +1,501 @@
+Date,Company,Headline,SentimentScore,Sentiment
+2024-04-19,Reliance Industries,Operational challenges reported,-0.69,Negative
+2024-04-01,Reliance Industries,New strategic partnership,0.67,Positive
+2024-09-26,Reliance Industries,Strong quarterly earnings,0.75,Positive
+2024-06-17,Reliance Industries,Market share increases,0.95,Positive
+2024-09-14,Reliance Industries,Positive analyst outlook,0.42,Positive
+2024-05-20,Reliance Industries,Business review announced,-0.09,Neutral
+2024-12-22,Reliance Industries,Positive analyst outlook,0.78,Positive
+2024-10-19,Reliance Industries,Successful business expansion,1.0,Positive
+2024-11-19,Reliance Industries,Business review announced,-0.07,Neutral
+2024-11-27,Reliance Industries,Regulatory concerns emerge,-0.97,Negative
+2024-01-15,Reliance Industries,Weak quarterly performance,-0.44,Negative
+2024-03-31,Reliance Industries,Expansion plans announced,0.65,Positive
+2024-03-02,Reliance Industries,Successful business expansion,0.78,Positive
+2024-02-01,Reliance Industries,Expansion plans announced,0.91,Positive
+2024-05-22,Reliance Industries,Strong quarterly earnings,0.6,Positive
+2024-12-10,Reliance Industries,Revenue growth exceeds expectations,0.94,Positive
+2024-10-27,Reliance Industries,Strong quarterly earnings,0.96,Positive
+2024-07-25,Reliance Industries,Board meeting scheduled,-0.09,Neutral
+2024-09-13,Reliance Industries,Positive analyst outlook,0.45,Positive
+2024-08-15,Reliance Industries,Positive analyst outlook,0.77,Positive
+2024-12-18,Reliance Industries,Analysts downgrade stock,-0.86,Negative
+2024-01-02,Reliance Industries,Positive analyst outlook,0.74,Positive
+2024-03-01,Reliance Industries,Successful business expansion,0.74,Positive
+2024-12-22,Reliance Industries,Successful business expansion,0.45,Positive
+2024-02-16,Reliance Industries,Expansion plans announced,0.51,Positive
+2024-10-29,Reliance Industries,Revenue growth exceeds expectations,0.87,Positive
+2024-04-21,Reliance Industries,Successful business expansion,0.45,Positive
+2024-05-06,Reliance Industries,New strategic partnership,0.85,Positive
+2024-03-08,Reliance Industries,Strong quarterly earnings,0.63,Positive
+2024-05-26,Reliance Industries,Positive analyst outlook,0.48,Positive
+2024-06-10,Reliance Industries,Management update released,0.07,Neutral
+2024-05-19,Reliance Industries,Revenue growth exceeds expectations,0.99,Positive
+2024-05-12,Reliance Industries,Annual report published,-0.08,Neutral
+2024-06-30,Reliance Industries,Competition pressures revenue,-0.72,Negative
+2024-11-24,Reliance Industries,Supply chain disruptions,-0.34,Negative
+2024-12-17,Reliance Industries,Strong quarterly earnings,0.97,Positive
+2024-10-26,Reliance Industries,Management update released,0.01,Neutral
+2024-04-17,Reliance Industries,Annual report published,0.03,Neutral
+2024-12-15,Reliance Industries,New strategic partnership,0.61,Positive
+2024-09-14,Reliance Industries,Market uncertainty impacts growth,-0.93,Negative
+2024-04-17,Reliance Industries,New strategic partnership,0.68,Positive
+2024-01-17,Reliance Industries,Revenue growth exceeds expectations,0.69,Positive
+2024-08-27,Reliance Industries,Competition pressures revenue,-0.7,Negative
+2024-07-12,Reliance Industries,Profit margins decline,-0.74,Negative
+2024-02-23,Reliance Industries,Strong quarterly earnings,0.5,Positive
+2024-08-31,Reliance Industries,Market share increases,0.79,Positive
+2024-02-21,Reliance Industries,Market share increases,0.58,Positive
+2024-08-27,Reliance Industries,Weak quarterly performance,-0.4,Negative
+2024-08-12,Reliance Industries,Supply chain disruptions,-0.53,Negative
+2024-12-21,Reliance Industries,Business review announced,-0.01,Neutral
+2024-05-04,TCS,Market share increases,0.76,Positive
+2024-09-04,TCS,Annual report published,-0.09,Neutral
+2024-04-29,TCS,Regulatory concerns emerge,-0.66,Negative
+2024-05-17,TCS,Analysts downgrade stock,-0.53,Negative
+2024-03-24,TCS,Weak quarterly performance,-0.26,Negative
+2024-11-01,TCS,Operational challenges reported,-0.24,Negative
+2024-10-17,TCS,Revenue growth exceeds expectations,0.8,Positive
+2024-01-28,TCS,Positive analyst outlook,0.88,Positive
+2024-03-13,TCS,Successful business expansion,0.64,Positive
+2024-08-23,TCS,Revenue growth exceeds expectations,0.52,Positive
+2024-03-29,TCS,Positive analyst outlook,0.45,Positive
+2024-04-30,TCS,Record annual profits,0.45,Positive
+2024-05-05,TCS,Market share increases,0.4,Positive
+2024-03-22,TCS,Expansion plans announced,0.68,Positive
+2024-12-17,TCS,Management update released,0.08,Neutral
+2024-12-08,TCS,Business review announced,0.04,Neutral
+2024-02-19,TCS,Management update released,-0.04,Neutral
+2024-03-09,TCS,Annual report published,0.08,Neutral
+2024-12-11,TCS,Corporate event planned,-0.02,Neutral
+2024-02-06,TCS,Successful business expansion,0.8,Positive
+2024-10-27,TCS,New strategic partnership,0.93,Positive
+2024-04-01,TCS,Market share increases,0.62,Positive
+2024-09-13,TCS,Record annual profits,0.95,Positive
+2024-11-26,TCS,Revenue growth exceeds expectations,0.7,Positive
+2024-01-23,TCS,Positive analyst outlook,0.66,Positive
+2024-06-22,TCS,Management update released,-0.01,Neutral
+2024-05-25,TCS,Record annual profits,0.81,Positive
+2024-09-03,TCS,Positive analyst outlook,0.98,Positive
+2024-08-03,TCS,Revenue growth exceeds expectations,0.64,Positive
+2024-09-21,TCS,Successful business expansion,0.88,Positive
+2024-06-26,TCS,Record annual profits,0.88,Positive
+2024-01-07,TCS,Market share increases,0.48,Positive
+2024-09-16,TCS,Business review announced,-0.1,Neutral
+2024-11-30,TCS,Business review announced,0.05,Neutral
+2024-06-04,TCS,Annual report published,0.05,Neutral
+2024-02-29,TCS,Supply chain disruptions,-0.6,Negative
+2024-08-30,TCS,Market share increases,0.47,Positive
+2024-04-01,TCS,Corporate event planned,0.05,Neutral
+2024-12-11,TCS,Revenue growth exceeds expectations,0.4,Positive
+2024-12-28,TCS,Market uncertainty impacts growth,-0.84,Negative
+2024-11-10,TCS,Business review announced,-0.09,Neutral
+2024-05-24,TCS,Expansion plans announced,0.92,Positive
+2024-08-23,TCS,Strong quarterly earnings,0.93,Positive
+2024-12-17,TCS,Positive analyst outlook,0.66,Positive
+2024-12-11,TCS,Strong quarterly earnings,0.73,Positive
+2024-04-01,TCS,Market share increases,0.65,Positive
+2024-08-16,TCS,Positive analyst outlook,0.78,Positive
+2024-11-01,TCS,Market share increases,0.84,Positive
+2024-09-29,TCS,Management update released,-0.06,Neutral
+2024-09-30,TCS,Revenue growth exceeds expectations,0.84,Positive
+2024-11-20,Infosys,Business review announced,0.08,Neutral
+2024-06-25,Infosys,Corporate event planned,-0.05,Neutral
+2024-09-25,Infosys,Supply chain disruptions,-0.97,Negative
+2024-06-16,Infosys,Strong quarterly earnings,0.49,Positive
+2024-11-22,Infosys,Record annual profits,0.71,Positive
+2024-02-10,Infosys,Positive analyst outlook,0.65,Positive
+2024-01-12,Infosys,Positive analyst outlook,0.83,Positive
+2024-02-10,Infosys,Board meeting scheduled,0.06,Neutral
+2024-10-19,Infosys,Positive analyst outlook,0.77,Positive
+2024-10-03,Infosys,Strong quarterly earnings,0.62,Positive
+2024-08-30,Infosys,Record annual profits,0.56,Positive
+2024-12-18,Infosys,Positive analyst outlook,0.7,Positive
+2024-01-24,Infosys,Analysts downgrade stock,-0.27,Negative
+2024-12-13,Infosys,Positive analyst outlook,0.4,Positive
+2024-04-16,Infosys,Record annual profits,0.79,Positive
+2024-05-20,Infosys,Successful business expansion,0.76,Positive
+2024-11-21,Infosys,Expansion plans announced,0.53,Positive
+2024-01-10,Infosys,New strategic partnership,0.44,Positive
+2024-05-27,Infosys,Supply chain disruptions,-0.53,Negative
+2024-11-21,Infosys,Competition pressures revenue,-0.57,Negative
+2024-08-31,Infosys,Profit margins decline,-0.73,Negative
+2024-06-12,Infosys,Successful business expansion,0.49,Positive
+2024-09-12,Infosys,Revenue growth exceeds expectations,0.8,Positive
+2024-05-10,Infosys,Board meeting scheduled,0.03,Neutral
+2024-10-19,Infosys,Successful business expansion,0.74,Positive
+2024-06-25,Infosys,New strategic partnership,0.85,Positive
+2024-09-28,Infosys,Positive analyst outlook,0.58,Positive
+2024-06-10,Infosys,Business review announced,-0.09,Neutral
+2024-11-15,Infosys,Weak quarterly performance,-0.5,Negative
+2024-10-16,Infosys,Business review announced,0.1,Neutral
+2024-01-12,Infosys,Successful business expansion,0.99,Positive
+2024-07-11,Infosys,Weak quarterly performance,-0.7,Negative
+2024-03-04,Infosys,Record annual profits,0.53,Positive
+2024-02-26,Infosys,Market uncertainty impacts growth,-0.86,Negative
+2024-03-22,Infosys,Corporate event planned,-0.02,Neutral
+2024-04-21,Infosys,Corporate event planned,-0.04,Neutral
+2024-07-04,Infosys,Market share increases,0.7,Positive
+2024-09-29,Infosys,Management update released,0.07,Neutral
+2024-09-10,Infosys,Annual report published,0.07,Neutral
+2024-08-18,Infosys,Revenue growth exceeds expectations,0.64,Positive
+2024-01-02,Infosys,Competition pressures revenue,-0.39,Negative
+2024-12-01,Infosys,Expansion plans announced,0.63,Positive
+2024-11-30,Infosys,Business review announced,-0.02,Neutral
+2024-11-21,Infosys,New strategic partnership,0.48,Positive
+2024-11-13,Infosys,Regulatory concerns emerge,-0.52,Negative
+2024-07-28,Infosys,Market share increases,0.77,Positive
+2024-03-26,Infosys,Supply chain disruptions,-0.45,Negative
+2024-07-08,Infosys,Record annual profits,0.73,Positive
+2024-04-08,Infosys,Successful business expansion,0.62,Positive
+2024-05-02,Infosys,Successful business expansion,0.96,Positive
+2024-04-12,HDFC Bank,Revenue growth exceeds expectations,0.58,Positive
+2024-01-16,HDFC Bank,Successful business expansion,0.68,Positive
+2024-12-16,HDFC Bank,Supply chain disruptions,-0.21,Negative
+2024-03-31,HDFC Bank,Corporate event planned,0.03,Neutral
+2024-11-05,HDFC Bank,Revenue growth exceeds expectations,0.55,Positive
+2024-02-05,HDFC Bank,Strong quarterly earnings,0.81,Positive
+2024-07-27,HDFC Bank,Supply chain disruptions,-0.31,Negative
+2024-02-06,HDFC Bank,Annual report published,0.08,Neutral
+2024-10-02,HDFC Bank,Strong quarterly earnings,0.66,Positive
+2024-01-31,HDFC Bank,Record annual profits,0.9,Positive
+2024-01-21,HDFC Bank,Record annual profits,0.83,Positive
+2024-09-18,HDFC Bank,Business review announced,0.06,Neutral
+2024-02-23,HDFC Bank,Positive analyst outlook,0.85,Positive
+2024-10-23,HDFC Bank,Revenue growth exceeds expectations,0.62,Positive
+2024-12-02,HDFC Bank,Revenue growth exceeds expectations,0.95,Positive
+2024-09-04,HDFC Bank,Positive analyst outlook,0.46,Positive
+2024-11-24,HDFC Bank,Successful business expansion,0.94,Positive
+2024-09-08,HDFC Bank,Positive analyst outlook,0.61,Positive
+2024-12-18,HDFC Bank,Annual report published,0.06,Neutral
+2024-12-24,HDFC Bank,Positive analyst outlook,0.76,Positive
+2024-03-12,HDFC Bank,Positive analyst outlook,0.42,Positive
+2024-07-08,HDFC Bank,Competition pressures revenue,-0.43,Negative
+2024-06-06,HDFC Bank,Positive analyst outlook,0.69,Positive
+2024-08-13,HDFC Bank,Revenue growth exceeds expectations,0.85,Positive
+2024-12-21,HDFC Bank,Revenue growth exceeds expectations,0.76,Positive
+2024-07-15,HDFC Bank,New strategic partnership,0.42,Positive
+2024-04-18,HDFC Bank,Market uncertainty impacts growth,-0.88,Negative
+2024-01-07,HDFC Bank,Market share increases,0.83,Positive
+2024-09-21,HDFC Bank,Business review announced,0.02,Neutral
+2024-03-28,HDFC Bank,Revenue growth exceeds expectations,0.75,Positive
+2024-09-13,HDFC Bank,Market share increases,0.63,Positive
+2024-09-05,HDFC Bank,Successful business expansion,0.51,Positive
+2024-07-13,HDFC Bank,Expansion plans announced,0.61,Positive
+2024-06-07,HDFC Bank,New strategic partnership,0.49,Positive
+2024-11-07,HDFC Bank,New strategic partnership,0.61,Positive
+2024-08-23,HDFC Bank,Profit margins decline,-0.33,Negative
+2024-09-25,HDFC Bank,New strategic partnership,0.62,Positive
+2024-01-17,HDFC Bank,Board meeting scheduled,0.09,Neutral
+2024-09-16,HDFC Bank,Positive analyst outlook,0.73,Positive
+2024-09-30,HDFC Bank,Regulatory concerns emerge,-0.22,Negative
+2024-01-29,HDFC Bank,Corporate event planned,0.0,Neutral
+2024-05-05,HDFC Bank,Revenue growth exceeds expectations,0.81,Positive
+2024-11-29,HDFC Bank,New strategic partnership,0.81,Positive
+2024-08-21,HDFC Bank,Strong quarterly earnings,0.99,Positive
+2024-05-16,HDFC Bank,Market uncertainty impacts growth,-0.93,Negative
+2024-04-07,HDFC Bank,Revenue growth exceeds expectations,0.71,Positive
+2024-02-01,HDFC Bank,New strategic partnership,0.55,Positive
+2024-10-24,HDFC Bank,Business review announced,-0.08,Neutral
+2024-01-27,HDFC Bank,Expansion plans announced,0.52,Positive
+2024-02-29,HDFC Bank,Board meeting scheduled,-0.0,Neutral
+2024-02-21,ICICI Bank,Operational challenges reported,-0.52,Negative
+2024-06-02,ICICI Bank,Profit margins decline,-0.53,Negative
+2024-02-27,ICICI Bank,Management update released,0.02,Neutral
+2024-11-21,ICICI Bank,Supply chain disruptions,-0.21,Negative
+2024-05-08,ICICI Bank,Corporate event planned,-0.05,Neutral
+2024-11-19,ICICI Bank,Market share increases,0.7,Positive
+2024-09-20,ICICI Bank,Positive analyst outlook,0.56,Positive
+2024-09-29,ICICI Bank,Market share increases,0.57,Positive
+2024-10-14,ICICI Bank,Market uncertainty impacts growth,-0.5,Negative
+2024-02-27,ICICI Bank,Successful business expansion,0.4,Positive
+2024-09-17,ICICI Bank,Business review announced,-0.07,Neutral
+2024-02-03,ICICI Bank,Annual report published,-0.08,Neutral
+2024-08-14,ICICI Bank,Revenue growth exceeds expectations,0.52,Positive
+2024-02-25,ICICI Bank,New strategic partnership,0.58,Positive
+2024-06-05,ICICI Bank,Successful business expansion,0.46,Positive
+2024-06-02,ICICI Bank,Operational challenges reported,-0.54,Negative
+2024-03-20,ICICI Bank,Revenue growth exceeds expectations,0.52,Positive
+2024-07-21,ICICI Bank,Revenue growth exceeds expectations,0.77,Positive
+2024-03-21,ICICI Bank,Successful business expansion,0.79,Positive
+2024-08-01,ICICI Bank,New strategic partnership,0.96,Positive
+2024-08-29,ICICI Bank,Market share increases,0.49,Positive
+2024-06-19,ICICI Bank,Market share increases,0.67,Positive
+2024-08-05,ICICI Bank,Analysts downgrade stock,-0.39,Negative
+2024-01-03,ICICI Bank,Board meeting scheduled,0.09,Neutral
+2024-06-30,ICICI Bank,Successful business expansion,0.86,Positive
+2024-01-10,ICICI Bank,New strategic partnership,0.8,Positive
+2024-05-11,ICICI Bank,Market share increases,0.41,Positive
+2024-08-06,ICICI Bank,Annual report published,0.01,Neutral
+2024-04-12,ICICI Bank,Successful business expansion,0.91,Positive
+2024-02-24,ICICI Bank,New strategic partnership,0.5,Positive
+2024-09-02,ICICI Bank,Supply chain disruptions,-0.24,Negative
+2024-01-24,ICICI Bank,Business review announced,-0.05,Neutral
+2024-11-06,ICICI Bank,Analysts downgrade stock,-0.95,Negative
+2024-01-29,ICICI Bank,Positive analyst outlook,0.72,Positive
+2024-08-12,ICICI Bank,Expansion plans announced,0.68,Positive
+2024-02-07,ICICI Bank,Record annual profits,0.89,Positive
+2024-03-18,ICICI Bank,Market uncertainty impacts growth,-0.54,Negative
+2024-10-14,ICICI Bank,Successful business expansion,0.55,Positive
+2024-10-20,ICICI Bank,Market uncertainty impacts growth,-0.55,Negative
+2024-05-29,ICICI Bank,Revenue growth exceeds expectations,0.86,Positive
+2024-02-04,ICICI Bank,Market share increases,0.94,Positive
+2024-08-16,ICICI Bank,Revenue growth exceeds expectations,0.59,Positive
+2024-04-26,ICICI Bank,Annual report published,-0.03,Neutral
+2024-12-12,ICICI Bank,Positive analyst outlook,0.76,Positive
+2024-01-12,ICICI Bank,Expansion plans announced,0.79,Positive
+2024-08-06,ICICI Bank,Business review announced,0.06,Neutral
+2024-09-27,ICICI Bank,Market share increases,0.41,Positive
+2024-08-11,ICICI Bank,Market share increases,0.87,Positive
+2024-09-08,ICICI Bank,Market share increases,0.78,Positive
+2024-02-08,ICICI Bank,Regulatory concerns emerge,-0.22,Negative
+2024-02-27,SBI,Weak quarterly performance,-0.36,Negative
+2024-02-14,SBI,Supply chain disruptions,-0.51,Negative
+2024-04-07,SBI,Record annual profits,0.89,Positive
+2024-08-26,SBI,Management update released,0.03,Neutral
+2024-02-07,SBI,Market share increases,0.67,Positive
+2024-12-20,SBI,Board meeting scheduled,-0.02,Neutral
+2024-05-30,SBI,Record annual profits,0.41,Positive
+2024-04-25,SBI,Record annual profits,0.49,Positive
+2024-04-24,SBI,Competition pressures revenue,-0.57,Negative
+2024-11-30,SBI,Market share increases,0.94,Positive
+2024-10-22,SBI,New strategic partnership,0.86,Positive
+2024-04-15,SBI,Revenue growth exceeds expectations,0.46,Positive
+2024-09-30,SBI,Profit margins decline,-0.38,Negative
+2024-10-03,SBI,Expansion plans announced,0.6,Positive
+2024-06-10,SBI,New strategic partnership,0.52,Positive
+2024-03-24,SBI,Annual report published,-0.05,Neutral
+2024-04-21,SBI,Strong quarterly earnings,0.48,Positive
+2024-08-13,SBI,Record annual profits,0.42,Positive
+2024-04-16,SBI,Board meeting scheduled,-0.01,Neutral
+2024-07-23,SBI,New strategic partnership,0.86,Positive
+2024-10-29,SBI,Expansion plans announced,0.98,Positive
+2024-09-16,SBI,Regulatory concerns emerge,-0.87,Negative
+2024-04-17,SBI,Successful business expansion,0.84,Positive
+2024-07-02,SBI,Record annual profits,0.51,Positive
+2024-02-16,SBI,Competition pressures revenue,-0.62,Negative
+2024-09-17,SBI,Successful business expansion,0.41,Positive
+2024-07-13,SBI,Business review announced,0.09,Neutral
+2024-02-21,SBI,Market share increases,0.97,Positive
+2024-02-03,SBI,Annual report published,-0.05,Neutral
+2024-12-25,SBI,Record annual profits,0.93,Positive
+2024-01-09,SBI,Market share increases,0.43,Positive
+2024-05-07,SBI,Strong quarterly earnings,0.48,Positive
+2024-03-20,SBI,Successful business expansion,0.86,Positive
+2024-02-01,SBI,Operational challenges reported,-0.31,Negative
+2024-12-04,SBI,Market share increases,0.77,Positive
+2024-03-21,SBI,Management update released,-0.07,Neutral
+2024-09-22,SBI,Revenue growth exceeds expectations,0.62,Positive
+2024-02-26,SBI,Strong quarterly earnings,0.7,Positive
+2024-06-05,SBI,Annual report published,0.08,Neutral
+2024-05-15,SBI,Competition pressures revenue,-0.98,Negative
+2024-01-14,SBI,Strong quarterly earnings,0.93,Positive
+2024-01-18,SBI,Record annual profits,0.43,Positive
+2024-07-12,SBI,Weak quarterly performance,-0.87,Negative
+2024-01-08,SBI,New strategic partnership,0.46,Positive
+2024-02-03,SBI,Successful business expansion,0.68,Positive
+2024-07-31,SBI,Supply chain disruptions,-0.89,Negative
+2024-11-04,SBI,Positive analyst outlook,0.69,Positive
+2024-05-11,SBI,Market share increases,0.79,Positive
+2024-07-06,SBI,Regulatory concerns emerge,-0.62,Negative
+2024-10-19,SBI,Revenue growth exceeds expectations,0.53,Positive
+2024-03-07,ITC,New strategic partnership,0.8,Positive
+2024-02-18,ITC,Annual report published,0.08,Neutral
+2024-02-23,ITC,New strategic partnership,0.55,Positive
+2024-12-03,ITC,Market share increases,0.83,Positive
+2024-08-24,ITC,Market uncertainty impacts growth,-0.39,Negative
+2024-03-08,ITC,Record annual profits,0.62,Positive
+2024-03-15,ITC,Profit margins decline,-0.4,Negative
+2024-07-16,ITC,New strategic partnership,0.99,Positive
+2024-01-08,ITC,Strong quarterly earnings,0.9,Positive
+2024-05-01,ITC,Record annual profits,0.59,Positive
+2024-10-19,ITC,Business review announced,0.07,Neutral
+2024-04-06,ITC,Analysts downgrade stock,-0.64,Negative
+2024-04-19,ITC,Corporate event planned,-0.05,Neutral
+2024-08-13,ITC,Positive analyst outlook,0.79,Positive
+2024-09-20,ITC,Market share increases,1.0,Positive
+2024-04-05,ITC,Market share increases,0.88,Positive
+2024-09-06,ITC,Supply chain disruptions,-0.47,Negative
+2024-12-08,ITC,Positive analyst outlook,0.44,Positive
+2024-07-06,ITC,Board meeting scheduled,0.09,Neutral
+2024-03-05,ITC,New strategic partnership,0.99,Positive
+2024-02-26,ITC,Positive analyst outlook,0.48,Positive
+2024-06-26,ITC,Successful business expansion,0.66,Positive
+2024-02-12,ITC,Weak quarterly performance,-0.68,Negative
+2024-09-18,ITC,Revenue growth exceeds expectations,0.9,Positive
+2024-04-23,ITC,New strategic partnership,0.84,Positive
+2024-06-30,ITC,Weak quarterly performance,-0.55,Negative
+2024-09-28,ITC,Profit margins decline,-0.36,Negative
+2024-07-04,ITC,Operational challenges reported,-0.45,Negative
+2024-09-28,ITC,Market share increases,0.5,Positive
+2024-12-14,ITC,New strategic partnership,0.91,Positive
+2024-03-18,ITC,Analysts downgrade stock,-0.31,Negative
+2024-05-22,ITC,Record annual profits,0.58,Positive
+2024-09-24,ITC,Business review announced,-0.01,Neutral
+2024-03-10,ITC,Strong quarterly earnings,0.44,Positive
+2024-12-28,ITC,Market uncertainty impacts growth,-0.83,Negative
+2024-11-09,ITC,Regulatory concerns emerge,-0.95,Negative
+2024-07-29,ITC,Revenue growth exceeds expectations,0.69,Positive
+2024-03-23,ITC,Record annual profits,0.87,Positive
+2024-11-26,ITC,Business review announced,0.02,Neutral
+2024-05-07,ITC,Expansion plans announced,0.54,Positive
+2024-05-21,ITC,Record annual profits,0.47,Positive
+2024-10-26,ITC,New strategic partnership,0.67,Positive
+2024-12-10,ITC,Market share increases,0.41,Positive
+2024-03-01,ITC,Market uncertainty impacts growth,-0.58,Negative
+2024-11-17,ITC,Supply chain disruptions,-0.81,Negative
+2024-08-12,ITC,Expansion plans announced,0.72,Positive
+2024-11-08,ITC,Management update released,-0.09,Neutral
+2024-06-23,ITC,Strong quarterly earnings,0.63,Positive
+2024-05-10,ITC,Successful business expansion,0.66,Positive
+2024-03-27,ITC,Annual report published,-0.06,Neutral
+2024-02-22,Bharti Airtel,Market share increases,0.54,Positive
+2024-12-06,Bharti Airtel,Business review announced,-0.02,Neutral
+2024-11-22,Bharti Airtel,Positive analyst outlook,0.91,Positive
+2024-05-21,Bharti Airtel,Market share increases,0.65,Positive
+2024-05-08,Bharti Airtel,Expansion plans announced,0.41,Positive
+2024-09-05,Bharti Airtel,Successful business expansion,0.53,Positive
+2024-08-10,Bharti Airtel,Expansion plans announced,1.0,Positive
+2024-12-28,Bharti Airtel,Corporate event planned,0.02,Neutral
+2024-10-16,Bharti Airtel,Corporate event planned,0.0,Neutral
+2024-12-07,Bharti Airtel,Board meeting scheduled,0.02,Neutral
+2024-10-29,Bharti Airtel,Expansion plans announced,0.47,Positive
+2024-05-02,Bharti Airtel,Record annual profits,0.89,Positive
+2024-01-21,Bharti Airtel,Successful business expansion,0.91,Positive
+2024-10-20,Bharti Airtel,Profit margins decline,-0.25,Negative
+2024-11-17,Bharti Airtel,Board meeting scheduled,-0.06,Neutral
+2024-04-02,Bharti Airtel,Market share increases,0.46,Positive
+2024-07-30,Bharti Airtel,Successful business expansion,0.91,Positive
+2024-05-09,Bharti Airtel,Market share increases,0.61,Positive
+2024-05-07,Bharti Airtel,Successful business expansion,0.87,Positive
+2024-06-15,Bharti Airtel,Annual report published,0.05,Neutral
+2024-03-23,Bharti Airtel,Market share increases,0.84,Positive
+2024-06-27,Bharti Airtel,Successful business expansion,0.91,Positive
+2024-06-19,Bharti Airtel,New strategic partnership,0.59,Positive
+2024-06-05,Bharti Airtel,Expansion plans announced,0.78,Positive
+2024-06-09,Bharti Airtel,Supply chain disruptions,-0.49,Negative
+2024-07-14,Bharti Airtel,Positive analyst outlook,0.91,Positive
+2024-09-05,Bharti Airtel,Market share increases,0.88,Positive
+2024-07-04,Bharti Airtel,Revenue growth exceeds expectations,0.59,Positive
+2024-02-27,Bharti Airtel,Positive analyst outlook,0.95,Positive
+2024-12-24,Bharti Airtel,Market uncertainty impacts growth,-0.39,Negative
+2024-10-02,Bharti Airtel,Record annual profits,0.77,Positive
+2024-02-08,Bharti Airtel,Expansion plans announced,0.45,Positive
+2024-11-02,Bharti Airtel,Annual report published,-0.07,Neutral
+2024-06-23,Bharti Airtel,Competition pressures revenue,-0.68,Negative
+2024-07-16,Bharti Airtel,Positive analyst outlook,0.77,Positive
+2024-02-12,Bharti Airtel,New strategic partnership,0.67,Positive
+2024-01-21,Bharti Airtel,Revenue growth exceeds expectations,0.8,Positive
+2024-05-20,Bharti Airtel,Successful business expansion,0.53,Positive
+2024-12-21,Bharti Airtel,New strategic partnership,0.93,Positive
+2024-08-13,Bharti Airtel,Revenue growth exceeds expectations,0.41,Positive
+2024-05-04,Bharti Airtel,Successful business expansion,0.9,Positive
+2024-07-31,Bharti Airtel,Operational challenges reported,-0.67,Negative
+2024-09-22,Bharti Airtel,Analysts downgrade stock,-0.5,Negative
+2024-07-17,Bharti Airtel,Market share increases,0.88,Positive
+2024-05-14,Bharti Airtel,Annual report published,-0.03,Neutral
+2024-04-30,Bharti Airtel,Market share increases,0.45,Positive
+2024-12-20,Bharti Airtel,Market share increases,0.92,Positive
+2024-12-25,Bharti Airtel,Revenue growth exceeds expectations,0.46,Positive
+2024-09-16,Bharti Airtel,Corporate event planned,-0.04,Neutral
+2024-11-05,Bharti Airtel,Market share increases,0.83,Positive
+2024-11-26,Larsen & Toubro,Operational challenges reported,-0.63,Negative
+2024-10-21,Larsen & Toubro,Successful business expansion,0.77,Positive
+2024-09-11,Larsen & Toubro,Analysts downgrade stock,-0.95,Negative
+2024-03-28,Larsen & Toubro,Successful business expansion,0.74,Positive
+2024-01-30,Larsen & Toubro,Successful business expansion,0.92,Positive
+2024-03-16,Larsen & Toubro,Market share increases,0.44,Positive
+2024-05-21,Larsen & Toubro,Market uncertainty impacts growth,-0.24,Negative
+2024-01-15,Larsen & Toubro,Supply chain disruptions,-0.66,Negative
+2024-03-09,Larsen & Toubro,Management update released,0.03,Neutral
+2024-06-07,Larsen & Toubro,Market uncertainty impacts growth,-0.74,Negative
+2024-10-18,Larsen & Toubro,Analysts downgrade stock,-0.88,Negative
+2024-10-03,Larsen & Toubro,Competition pressures revenue,-0.31,Negative
+2024-11-08,Larsen & Toubro,Market share increases,0.75,Positive
+2024-02-06,Larsen & Toubro,Regulatory concerns emerge,-0.58,Negative
+2024-03-23,Larsen & Toubro,New strategic partnership,0.99,Positive
+2024-04-01,Larsen & Toubro,Strong quarterly earnings,0.79,Positive
+2024-09-10,Larsen & Toubro,Market share increases,0.45,Positive
+2024-07-25,Larsen & Toubro,Analysts downgrade stock,-0.36,Negative
+2024-07-14,Larsen & Toubro,Management update released,0.07,Neutral
+2024-04-03,Larsen & Toubro,Positive analyst outlook,0.61,Positive
+2024-12-28,Larsen & Toubro,Annual report published,-0.0,Neutral
+2024-04-04,Larsen & Toubro,Record annual profits,0.52,Positive
+2024-06-28,Larsen & Toubro,Market share increases,0.67,Positive
+2024-02-18,Larsen & Toubro,Market uncertainty impacts growth,-0.98,Negative
+2024-11-06,Larsen & Toubro,Strong quarterly earnings,0.81,Positive
+2024-02-18,Larsen & Toubro,Strong quarterly earnings,0.98,Positive
+2024-09-27,Larsen & Toubro,Strong quarterly earnings,0.6,Positive
+2024-06-05,Larsen & Toubro,Market share increases,0.92,Positive
+2024-03-29,Larsen & Toubro,Successful business expansion,0.51,Positive
+2024-04-21,Larsen & Toubro,Expansion plans announced,0.92,Positive
+2024-03-20,Larsen & Toubro,Competition pressures revenue,-0.54,Negative
+2024-08-13,Larsen & Toubro,Revenue growth exceeds expectations,0.89,Positive
+2024-08-15,Larsen & Toubro,Strong quarterly earnings,0.96,Positive
+2024-03-02,Larsen & Toubro,Positive analyst outlook,0.46,Positive
+2024-12-15,Larsen & Toubro,Revenue growth exceeds expectations,0.94,Positive
+2024-09-11,Larsen & Toubro,Revenue growth exceeds expectations,1.0,Positive
+2024-06-21,Larsen & Toubro,Corporate event planned,0.07,Neutral
+2024-08-17,Larsen & Toubro,Expansion plans announced,0.6,Positive
+2024-07-06,Larsen & Toubro,New strategic partnership,0.98,Positive
+2024-09-08,Larsen & Toubro,Record annual profits,0.42,Positive
+2024-01-31,Larsen & Toubro,Corporate event planned,-0.08,Neutral
+2024-09-23,Larsen & Toubro,Market share increases,0.95,Positive
+2024-10-15,Larsen & Toubro,Analysts downgrade stock,-0.39,Negative
+2024-11-25,Larsen & Toubro,Positive analyst outlook,0.59,Positive
+2024-08-17,Larsen & Toubro,Positive analyst outlook,0.97,Positive
+2024-08-06,Larsen & Toubro,Business review announced,-0.02,Neutral
+2024-09-08,Larsen & Toubro,Successful business expansion,0.46,Positive
+2024-10-14,Larsen & Toubro,Corporate event planned,-0.02,Neutral
+2024-09-11,Larsen & Toubro,Strong quarterly earnings,0.72,Positive
+2024-01-22,Larsen & Toubro,Expansion plans announced,0.58,Positive
+2024-10-27,Hindustan Unilever,Weak quarterly performance,-0.49,Negative
+2024-01-25,Hindustan Unilever,Profit margins decline,-0.96,Negative
+2024-06-04,Hindustan Unilever,Management update released,-0.03,Neutral
+2024-10-02,Hindustan Unilever,Record annual profits,0.84,Positive
+2024-09-25,Hindustan Unilever,Market share increases,0.81,Positive
+2024-01-23,Hindustan Unilever,Expansion plans announced,0.67,Positive
+2024-04-05,Hindustan Unilever,Market share increases,0.44,Positive
+2024-04-14,Hindustan Unilever,Management update released,0.01,Neutral
+2024-11-09,Hindustan Unilever,Strong quarterly earnings,0.95,Positive
+2024-04-15,Hindustan Unilever,Positive analyst outlook,0.4,Positive
+2024-05-03,Hindustan Unilever,Revenue growth exceeds expectations,0.99,Positive
+2024-04-26,Hindustan Unilever,Record annual profits,0.43,Positive
+2024-03-13,Hindustan Unilever,Operational challenges reported,-0.5,Negative
+2024-05-12,Hindustan Unilever,Corporate event planned,0.04,Neutral
+2024-11-16,Hindustan Unilever,New strategic partnership,0.96,Positive
+2024-11-30,Hindustan Unilever,Record annual profits,0.81,Positive
+2024-07-31,Hindustan Unilever,Business review announced,-0.04,Neutral
+2024-04-07,Hindustan Unilever,Annual report published,0.02,Neutral
+2024-11-16,Hindustan Unilever,Board meeting scheduled,0.04,Neutral
+2024-08-17,Hindustan Unilever,New strategic partnership,0.44,Positive
+2024-02-28,Hindustan Unilever,Revenue growth exceeds expectations,0.94,Positive
+2024-09-07,Hindustan Unilever,Revenue growth exceeds expectations,0.72,Positive
+2024-03-26,Hindustan Unilever,Record annual profits,0.57,Positive
+2024-05-26,Hindustan Unilever,Positive analyst outlook,0.47,Positive
+2024-03-02,Hindustan Unilever,Management update released,0.09,Neutral
+2024-10-11,Hindustan Unilever,Management update released,-0.07,Neutral
+2024-01-19,Hindustan Unilever,Business review announced,-0.08,Neutral
+2024-04-27,Hindustan Unilever,Record annual profits,0.51,Positive
+2024-12-21,Hindustan Unilever,New strategic partnership,0.66,Positive
+2024-07-08,Hindustan Unilever,Management update released,-0.01,Neutral
+2024-01-22,Hindustan Unilever,Operational challenges reported,-0.39,Negative
+2024-06-11,Hindustan Unilever,Strong quarterly earnings,0.97,Positive
+2024-06-23,Hindustan Unilever,Revenue growth exceeds expectations,0.61,Positive
+2024-04-12,Hindustan Unilever,Record annual profits,0.63,Positive
+2024-05-29,Hindustan Unilever,Regulatory concerns emerge,-0.82,Negative
+2024-11-17,Hindustan Unilever,Market share increases,0.79,Positive
+2024-08-12,Hindustan Unilever,Successful business expansion,0.44,Positive
+2024-05-05,Hindustan Unilever,Market uncertainty impacts growth,-0.55,Negative
+2024-03-14,Hindustan Unilever,Competition pressures revenue,-0.95,Negative
+2024-12-16,Hindustan Unilever,Record annual profits,0.71,Positive
+2024-01-09,Hindustan Unilever,Weak quarterly performance,-0.42,Negative
+2024-06-13,Hindustan Unilever,Strong quarterly earnings,0.49,Positive
+2024-02-23,Hindustan Unilever,Strong quarterly earnings,0.63,Positive
+2024-10-15,Hindustan Unilever,Record annual profits,0.86,Positive
+2024-03-02,Hindustan Unilever,Strong quarterly earnings,0.74,Positive
+2024-02-07,Hindustan Unilever,Successful business expansion,0.96,Positive
+2024-11-26,Hindustan Unilever,Annual report published,0.04,Neutral
+2024-07-17,Hindustan Unilever,Management update released,0.04,Neutral
+2024-11-09,Hindustan Unilever,Market share increases,0.99,Positive
+2024-11-21,Hindustan Unilever,Business review announced,0.08,Neutral
